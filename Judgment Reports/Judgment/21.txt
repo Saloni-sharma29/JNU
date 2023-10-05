@@ -1,0 +1,180 @@
+supreme court of india
+commissioner of income tax, ... vs burlop dealers ltd on 21 january, 1971
+equivalent citations: 1971 air 1635, 1971 scr (3) 410
+author: s c.
+bench: shah, j.c. (cj)
+           petitioner:
+commissioner of income tax, calcutta
+        vs.
+respondent:
+burlop dealers ltd.
+date of judgment21/01/1971
+bench:
+shah, j.c. (cj)
+bench:
+shah, j.c. (cj)
+hegde, k.s.
+grover, a.n.
+citation:
+ 1971 air 1635            1971 scr  (3) 410
+ citator info :
+ r          1973 sc 989  (14)
+ rf         1975 sc1268  (4)
+ f          1979 sc1450  (4)
+act:
+income-tax  act,  1922,  s. 34(1) (a) -scope  of  assessee
+disclosing  primary facts necessary for  assessment-duty  of
+income-tax officer to draw necessary inferences.
+headnote:
+ for  the  assessment year 1949-50 the assessee  submitted  a
+ profit  and  loss  account disclosing a  certain  amount  as
+ profit  in  a joint venture and claimed that  half  of  this
+ profit  was  paid to r under a partnership  agreement.   the
+ income-tax  officer  accepted the return and  included  only
+ half  of  the profit in the joint venture in  computing  the
+ assessee's  total income.  in the next assessment  year  the
+ assessee  filed  a return accompanied by a profit  and  loss
+ account and claimed that it had transferred half the  profit
+ to   r  as  his  share.   but  the  income-tax  officer   on
+ examination of the transactions brought the entire amount of
+ profit  in  the  joint  venture to  tax,  holding  that  the
+ partnership  agreement  was got up a devise  to  reduce  the
+ profits  received  from the joint venture.  this  order  wascommissioner of income tax, ... vs burlop dealers ltd on 21 january, 1971
+indian kanoon - http://indiankanoon.org/doc/1625501/ 1 confirmed  by the tribunal and the high  court.   meanwhile,
+ the  income-tax officer issued a notice under s. 34  of  the
+ income-tax  act,  1922  to reopen  the  assessment  for  the
+ assessment year 1949-50 and to assess the amount allowed  in
+ that  assessment  as paid to r. the income-tax  officer  re-
+ assessed the income under s. 34(1) (a) and added that amount
+ to  the  income returned by the assessee in  the  assessment
+ year   1949-50.    the  appellate   assistant   commissioner
+ confirmed  that order but the tribunal reversed.   the  high
+ court,  on  reference, answered in favour of  the  assessee.
+ dismissing the appeal by the revenue,
+ held  : under s. 34(1) (a,), if the assessee  has  disclosed
+ primary  facts  relevant to the assessment, he is  under  no
+ obligation  to  instruct the income-tax  officer  about  the
+ inference which the income-tax officer may raise 'from-these
+ facts.  the terms of the explanation to s. 34(1) also do not
+ impose  a more onerous obligation.  mere production  of  the
+ books of account or other evidence from which material facts
+ could  with  due diligence, have been  discovered  does  not
+ necessarily  amount to disclosure within the meaning  of  s.
+ 34(1); but where on the evidence and the materials  produced
+ the income-tax officer could have reached a conclusion other
+ than  the  one which he has reached, a proceeding  under  s.
+ 34(1) (a) will not lie merely on the ground that the income-
+ tax  officer  has  raised an inference which  he  may  later
+ regard as erroneous.
+ the assessee had disclosed his books of account and evidence
+ from which material facts could be discovered.  it was  'for
+ the income-tax officer to raise the necessary inference  and
+ if he did not do so the income which has escaped  assessment
+ cannot be brought to tax under s. 34(1) (a). [413 c]
+ calcutta discount co. ltd. v. income-tax officer,  companies
+ district 1, calcutta & anr. 41 i.t.r. 191, 200, referred to.
+judgment:
+civil appellate jurisdiction: civil appeal no. 649 of 1967.
+appeal by special leave from the order dated may 4, 1966 of the calcutta high court in income-tax
+reference no. 114 of 1965.
+jagadish swarup, solicitor-general, ram panjwani, r. n. sachthey and b. d. sharma, for the
+appellant. c. k. daphtary, b. p. maheshwari and k. r. khaitan, for the respondent.
+the judgment of the court was delivered by shah, c.j. burlop dealers ltd.-hereinafter referred to
+as 'the assessee-is a limited company. for the assessment year 1949-50 the assessee submitted a
+profit and loss account disclosing in the relevant year of account rs. 1,75,875/- as profit in a joint
+venture from h. manory ltd. and claimed that rs. 87,937/- being half the profit earned from h.commissioner of income tax, ... vs burlop dealers ltd on 21 january, 1971
+indian kanoon - http://indiankanoon.org/doc/1625501/ 2manory ltd. was paid to ratiram tansukhrai under a partnership agreement. the assessee stated
+that on june 5, 1948, it 'had entered into an agreement with-h. manory ltd. to do business in
+plywood chests and in consideration of financing the business the assessee was to receive 50% of the
+profits of the business. the assessee claimed that it had entered into an agreement on october 7,
+1948, with ratiram tansukhrai for financing the transactions of h. manory ltd. in the joint venture,
+and had agreed to pay to ratiram tansukhrai 50% of the profit earned by it from the business with
+h. manory ltd.
+the income-tax officer accepted the return filed by the assessee and included in computing the total
+income for the assessment year 1949-50 rs. 87,937/- only as the profit earned on the joint venture
+with h. manory ltd. in the assessment year 195051 the assessee field a return also accompanied by
+a profit and loss account disclosing a total profit of rs. 1,62,155/in the relevant account ear received
+from h. manory ltd., and claimed that it had transferred rs. 81,077/- to the account of ratiram
+tansukhrai as his share. the income-tax officer on examination of the transactions brought the
+entire amount of rs. 1,62,155/- to tax holding that the alleged agreement of october 1948 between
+the assessee and ratiram tansukhrai had merely been "got up as a device to reduce the profits,
+received from h. manory ltd.". this order was confirmed by the appellate assistant commissioner
+and by the income-tax appellate tribunal. the tribunal then stated a case under s. 66(1) of the
+income-tax act to the high court of calcutta. the high court agreed with the view of the tribunal
+and answered the question against the assessee.
+in the meanwhile on may 13, 1955, the income-tax officer issued a notice under  s. 34 to the
+assessee for the assessment year 1949-50 to re-open the assessment and to assess the amount of rs.
+87,937/- allowed in the assessment of income-tax as paid to ratiram tansukhrai. the assessee filed
+a return which did not include the amount paid to ratiram tansukhrai. the income-tax officer
+re-assessed the income under s. 34(1) (a) and added rs. 87,937/- to the income returned by the
+assessee in the assessment year 1949-
+50. the appellate assistant commissioner held that the income-tax officer was entitled to take
+action under  s. 34(1) (a) of the income-tax act 1922 after the ,amendment in 1948, and to re-open
+the assessment if income had been under-assessed owing to the failure cf the assessee to disclose
+fully and truly all material facts necessary for the assessment. he confirmed the order observing that
+the assessee had misled the income-tax officer into believing that there was a genuine arrangement
+with ratiram tansukhrai and had stated in the profit and loss account that the amount paid to
+ratiram tansukhrai was the share of the latter in the partnership, whereas no much share was
+payable to ratiram tansukhrai.
+in appeal against the order of the appellate assistant com- missioner the income-tax appellate
+tribunal held that the assessee had produced all the relevant accounts and documents necessary for
+completing the assessment, and the assessee was under no obligation to inform the income-tax
+officer about the true nature of the transactions. the tribunal on that view reversed the order of the
+appellate assistant commissioner and directed that the amount of rs. 87,937/- be excluded from
+the total income of the assessee for the year 1949-50.commissioner of income tax, ... vs burlop dealers ltd on 21 january, 1971
+indian kanoon - http://indiankanoon.org/doc/1625501/ 3an application under s. 66(1) of the indian income-tax act for stating a case to the high court was
+rejected by the tribunal. a petition to the high court of calcutta under s. 66(2) for ,directing the
+tribunal to submit a statement of the case was also ,rejected. the commissioner has appealed to
+this court.
+section 34(1) of the indian income-tax act, 1922, as it stood in the assessment year 1949-50
+provided: "if-----
+(a) the income-tax officer has reason to elieve that by reason of the omission or failure on the part
+of an assessee to make a return of income under section 22 for any year or to disclose fully and truly
+all material facts necessary for his assessment for that year, income, profits or gains chargeable to
+income-tax have escaped assessement for that year, or have been under-assessed.
+(b) notwithstanding that there has. been no omission or failure as mentioned in clause (a) on the
+part of the assessee, the income-tax officer has in consequence of information in his possession
+reason to believe that income, profits or gains chargeable to income-tax have escaped assessment
+for any year, or have been under-assessed. he may in cases falling under clause (a) at any time
+within eight years and in cases falling under clause (b) at any time within four years of the end of
+that year, serve on the assessee, a notice containing all or any of the requirements which may be
+included in a notice under sub- section(2) of section 22, and may proceed to assess or re- assess
+such income, profits or gains"
+the income-tax officer had in consequence of information in his possession that the agreement
+with ratiram tansukhrai was a sham transaction reason to believe, that income chargeable to tax
+had escaped assessment. such a case would appropriately fall under  s. 34(1)(b). but the period
+prescribed for serving a notice under s. 34(1) (b) had elapsed. under  s. 34 (1 )(a) the income-tax
+officer had authority to serve a notice when he had reason to believe that by reason of omission or
+failure on the part of the assessee to disclose fully and truly all material facts necessary for his
+assessment for the year, income chargeable to tax had escaped assessment. as observed by this
+court in calcutta discount co. ltd. v. income-tax officer, companies district 1, calcutta and
+another(1).
+"the words used are "omission or failure to disclose fully and truly all material facts necessary for
+his assessment for that year". it postulates a duty on every assessee to disclose fully and truly all
+material facts necessary for his assessment. what facts 'are material and necessary for assessment
+will differ from case to case. in every assessment proceeding, the assessing authority will, for the
+purpose of computing or determining the proper tax due from an assessee, require to know all the
+facts which help him in coming to the correct conclusion. from the primary facts (1) 41 1,t.r. 191,
+200.
+in his possession whether on disclosure by the assessee, or discovered by him on the basis of the
+facts disclose, or otherwise, the assessing authority has to draw inferences as regards certain other
+facts; and ultimately, from the primary facts and the further facts inferred from them, the authority
+has to draw the proper legal inferences, and ascertain on a correct interpretation of the taxingcommissioner of income tax, ... vs burlop dealers ltd on 21 january, 1971
+indian kanoon - http://indiankanoon.org/doc/1625501/ 4enactment, the proper tax leviable".
+we are of the view that under s. 34(1) (a) if the assessee has disclosed primary facts relevant to the
+assessment, he is under no ,obligation to instruct the income-tax officer about the inference which
+the income-tax officer may raise from those facts. the terms of the explanation to s. 34(1) also do
+not impose a more onerous obligation. mere production of the books of account or other evidence
+from which material facts could with due diligence have been discovered does not necessarily
+amount to disclosure within the meaning of s. 34(1), but where on the evidence and the materials
+produced the income-tax officer could 'have reached a conclusion other than one which he has
+reached, a proceeding under  s. 34(1) (a) will not lie merely on the ground that the income-tax
+officer has raised an inference which he may later regard as erroneous.
+the assessee had disclosed his books of account and evidence from which material facts could be
+discovered : it was under no obligation to inform the income-tax officer about the possible
+inferences which may be raised against him. it was for the income-tax officer to raise such an
+inference and if he did not do so the income which has escaped assessment cannot be brought to lay
+under section 34(1) (a). the appeal fails and is dismissed with costs.
+ k.b.n.                                                appeal
+ dismissed.commissioner of income tax, ... vs burlop dealers ltd on 21 january, 1971
+indian kanoon - http://indiankanoon.org/doc/1625501/ 5

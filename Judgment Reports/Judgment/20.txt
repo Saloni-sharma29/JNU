@@ -1,0 +1,1020 @@
+supreme court of india
+k.p. varghese vs the income tax ... on 4 september, 1981
+equivalent citations: 1981 air 1922, 1982 scr (1) 629
+author: p bhagwati
+bench: bhagwati, p.n.
+           petitioner:
+k.p. varghese
+        vs.
+respondent:
+the income tax officer,ernakulam, and another
+date of judgment04/09/1981
+bench:
+bhagwati, p.n.
+bench:
+bhagwati, p.n.
+venkataramiah, e.s. (j)
+citation:
+ 1981 air 1922            1982 scr  (1) 629
+ 1981 scc  (4) 173        1981 scale  (3)1315
+ citator info :
+ r          1984 sc 420  (38)
+ mv         1985 sc 150  (31)
+ d          1985 sc1211  (18)
+ r          1985 sc1698  (45)
+ rf         1986 sc1499  (16)
+ r          1986 sc1691  (14,16,18,19)
+ r          1986 sc1973  (17)
+ r          1987 sc 558  (15)
+ rf         1988 sc 191  (45)
+ rf         1988 sc 603  (24)
+ f          1988 sc 625  (5)
+ rf         1988 sc 782  (41)
+ rf         1989 sc 644  (16)
+ e&f        1989 sc1167  (8)
+ d          1991 sc 772  (18)
+ r          1991 sc1028  (15)
+ rf         1992 sc 847  (37)
+ rf         1992 sc1360  (9)
+act:
+     capital gains-whether  understatement of  consideration
+in a  transfer of  property is  a  necessary  condition  for
+attracting the  applicability of  sub-section (2) of section
+52 of  the income  tax act  1961-burden  of  proof  of  such
+understatement is  on the revenue-interpretation of statutes
+explainedk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 1headnote:
+     the appellant  assessee sold  his house in ernakulam on
+25th of  december, 1965  to his  daughter-in-law and five of
+his children  for the  same price  of rs. 16,500 at which he
+purchased in  the year  1958. the assessment of the assessee
+for the  assessment year  1966-67  for  which  the  relevant
+accounting year  was the  calendar year  1965 was thereafter
+completed in  the normal  course and  in this assessment, no
+amount was  included by  way of  capital gains in respect of
+the transfer  of the  house, since the house was sold by the
+assessee at  the same price at which it was purchased and no
+capital gains  accrued or  arose to  him as  a result of the
+transfer. on 4th april 1968, however, the income tax officer
+issued a  notice under  section 148  of the  act seeking  to
+reopen the  assessment of  the assessee  for the  assessment
+year 1966-67  and requiring  the assessee to submit a return
+of income  within thirty  days of the service of the notice,
+without stating  what was the income alleged to have escaped
+assessment. however,  by his  subsequent  letter  dated  4th
+march, 1969,  the income tax officer stated that he proposed
+to fix  the fair  market value  of the  house  sold  by  the
+assessee at  rs, 65,000  as against the consideration of rs.
+16,500  for   which  the  house  was  sold  and  assess  the
+difference of  rs. 48,500  as capital  gains in the hands of
+the assessee.  the objections  raised by  the assessee  were
+overruled and  an order  of reassessment  was passed  by the
+income tax  officer including  the  sum  of  rs.  48,500  as
+capital gains  and bringing  it to tax under sub-section (2)
+of section 52, taking the view that this sub-section did not
+require as  a condition precedent that there should be under
+statement of consideration in respect of the transfer and it
+was enough  to attract  the applicability of the sub-section
+if the  fair market  value of the property as on the date of
+the transfer  exceeded the  full value  of the consideration
+declared by  the assessee  by an amount of not less than 15%
+of the  value so  declared. the  assessee thereupon  filed a
+writ petition  in kerala high court challenging the validity
+of the order of re assessment insofar as it brought a sum of
+rs. 48,500  to tax  relying on sub-section (2) of section 52
+of the  the income  tax act,  1961. the  writ  petition  was
+allowed, but in appeal the full bench by a majority judgment
+agreed  with  the  views  of  the  income  tax  officer  and
+dismissed the  writ petition. hence the assessee's appeal by
+certificate.
+630
+     allowing the appeal, the court
+^
+     held: 1: 1. sub-section (2) of section 52 of the income
+tax act,  1961 can  be invoked  only where the consideration
+for the  transfer has been understated by the assessee or ink.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 2other words,  the consideration  actually  received  by  the
+assessee is  more than what is declared or disclosed by him.
+sub-section (2)  has no application in case of an honest and
+bonafide transaction where the consideration received by the
+assessee has been correctly declared or disclosed by him and
+there is no concealment or suppression of the consideration.
+[657 b, c-d]
+     1: 2.  the  burden  of  proving  an  understatement  or
+concealment is on the revenue, which may be discharged by it
+by  establishing   facts  and  circumstances  from  which  a
+reasonable inference  can be drawn that the assessee has not
+correctly declared  or disclosed  the consideration received
+by him  and there  is understatement  or concealment  of the
+consideration in respect of the transfer.[657 b-c]
+     1: 3.  sub-section (4),  in the  instant case,  had  no
+application and  the income tax officer could have no reason
+to believe  that any  part of the income of the assessee had
+escaped assessment  so as  to justify  the issue of a notice
+under section  148. it  was  a  common  ground  between  the
+parties and  that was  a finding  of  fact  reached  by  the
+revenue authorities that the transfer of the property by the
+assessee was  a perfectly  honest and  bonafide  transaction
+where the  full value  of the  consideration received by the
+assessee was  correctly  disclosed  at  the  figure  of  rs.
+16,500. the  order of  re-assessment made  by the income tax
+officer pursuant  to the notice issued under section 148 was
+accordingly without jurisdiction. [657 d-g]
+     2: 1.  the task  of  interpretation  of  the  statutory
+enactment is  not a  mechanical task.  it is  more than mere
+reading of  mathematical formula  because few  words possess
+the precision  of mathematical  symbols. it is an attempt to
+discover the  intent of  the legislature  from the  language
+used by it and it must always be remembered that language is
+at best  an imperfect instrument for the expression of human
+thoughts and  it would  be idle  to expect  every  statutory
+provision to  be "drafted with divine prescience and perfect
+clarity". courts,  therefore, must eschew literalness in the
+interpretation of  a statutory  provision and  construe  the
+language having  regard to  the object and purpose which the
+legislature had  in view  in enacting  that provision and in
+the context  and the  setting in  which it occurs. [640 c-d,
+f.g, 642 b-c]
+     2: 2.  where the  plain  literal  interpretation  of  a
+statutory provision  produces a manifestly absurd and unjust
+result  which   could  never   have  been  intended  by  the
+legislature, the  court may  modify the language used by the
+legislature or  even "do  some violence"  to  it  so  as  to
+achieve the obvious intention of the legislature and produce
+a rational  construction. the  court may also in such a case
+read into  the statutory provision a condition which, though
+not  expressed,   is  implicit  as  constituting  the  basic
+assumption underlying  the statutory  provision. it  is true
+that the  consequences of  a suggested  construction  cannotk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 3alter the  meaning of  a statutory  provision but  they  can
+certainly help to fix its meaning.
+631
+     luke v. revenue commissioner, [1963] a.c. 557; headan's
+case [1584]  3 co.  rep.  7(a);  in  re  may  fair  property
+company, lr  [1898] 2  ch. dn; eastman photographic material
+company v. comptroller-general of patents, designs and trade
+marks, l.r. [1898] a.c. 571, quoted with approval,
+     2:3.  the   speeches  made   by  the   members  of  the
+legislature on  the floor  of the  house  when  a  bill  for
+enacting  a   statutory  provision   is  being  debated  are
+inadmissible for  the purpose  of interpreting the statutory
+provision but  the speech  made by  the mover  of  the  bill
+explaining the  reason for  the introduction of the bill can
+certainly be referred to for the purpose of ascertaining the
+mischief sought  to be  remedied by  the legislation and the
+object and  purpose for  which the  legislation is  enacted.
+[654 e-g]
+     lok shikshana  trust v. commissioner af income-tax, 101
+i.t.r. 234;  indian chamber  of commerce  v. commissioner of
+income-tax,  101  i.t.r.  796;  additional  commissioner  of
+income-tax   v.   surat   art   silk   cloth   manufacturers
+association, 121 i.t.r. 1, referred to.
+     2:4. again  it is  undoubtedly true  that the  marginal
+note to  a section  cannot be referred to for the purpose of
+construing the  section but  it can certainly be relied upon
+as indicating  the drift  of the section or to show what the
+section dealing  with. it  cannot control the interpretation
+of the  words of a section particularly when the language of
+the section  is clear and unambiguous but, being part of the
+statute, it  prima facie  furnishes  some  clue  as  to  the
+meaning and purpose of the section. [647 a-b]
+     bushel  v.  hammond,  [1904]  2  kb  563,  quoted  with
+approval.
+bengal immunity  company limited  v.  state  of  bihar,
+[1955] 2 scr 603, referred to.
+     2:5.  the   rule  of   construction  by   reference  to
+contemporanea expositio  is  a  well  established  rule  for
+interpreting a statute by reference to the exposition it has
+received from  contemporary authority,  though it  must give
+way  where   the  language  of  the  statute  is  plain  and
+unambiguous. [650 b-c]
+     baleshwar  bagarti   v.  bhagirathi   dass,  i.l.r.  35
+calcutta 701, approved.
+     deshbandhu  gupta  and  co.  v.  delhi  stock  exchange
+association ltd,. [1979] 4 s.c.c. 565, referred to.
+     2:6. having  regard to  the  well  recognised  rule  of
+interpretation,  a   fair  and  reasonable  construction  of
+section 52  sub-section (2)  would be  to  read  into  it  a
+condition that  it would  apply only where the consideration
+for the  transfer is  understated or  in  other  words,  the
+assessee has  actually received  a larger  consideration for
+the transfer  than what  is declared  in the  instrument  ofk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 4transfer and  it would  have no  application in  case  of  a
+bonafide  transaction   where  the   full   value   of   the
+consideration for  the transfer is correctly declared by the
+assessee. [642 e-f]
+     3. several considerations which lead to this conclusion
+are:
+632
+     (a) the  first consideration  is the object and purpose
+of the  enactment of  section 52(2).  the speech made by the
+finance minister while moving the amendment introducing sub-
+section (2)  clearly states  what were  the circumstances in
+which such  sub-section (2)  came to be passed, what was the
+mischief for  which section  52 as  it stood  then  did  not
+provide and which was sought to be remedied by the enactment
+of sub section (2) and why the enactment of that sub section
+was found  necessary. the  object and purpose of sub-section
+(2), as  explicated from the speech of the finance minister,
+was not  to strike at honest and bonafide transactions where
+the consideration  for the  transfer was correctly disclosed
+by the  assessee but  to bring  within the  net of  taxation
+those transactions where the consideration in respect of the
+transfer was  shown at  a lesser  figure than  that actually
+received by  the assessee,  so that  they do  not escape the
+chargeable tax  on capital  gain by  understatement  of  the
+consideration. this  was real  object  and  purpose  of  the
+enactment of  sub section (2) and the interpretation of this
+sub-section must  fall in  line with the advancement of that
+object and purpose.[642 f, 646 b. f]
+     (b) further  the marginal  note to section 52 as it now
+stands, was  originally a  marginal note  only  to  what  is
+presently sub-section  (1) and  significantly  enough,  this
+marginal note remained unchanged even after the introduction
+of sub-section  (2) suggesting  clearly that it was meant by
+parliament to  apply to  both sub-sections of section 52 and
+it must  therefore be  taken as  indicating that,  like sub-
+section(l), sub-section  (2) is  also intended  to deal with
+cases where there is under-statement of the consideration in
+respect of the transfer. [647 c-d]
+     (c) the placement of sub-section (2) in section 52 does
+indicate in some small measure that parliament intended that
+sub-section to  apply only  to cases where the consideration
+in respect  of the transfer is under stated by the assessee.
+if parliament  intended sub-section  (2) to  cover all cases
+where  the   condition  of   15%  difference  is  satisfied,
+irrespective  of   whether  there   is  under-statement   of
+consideration or  not,  it  is  reasonable  to  assume  that
+parliament would  have enacted  that provision as a separate
+section and rot pitch-forked it into section 52 with a total
+stranger under  an inappropriate  marginal note.  - moreover
+there is inherent evidence in sub-section (2) which suggests
+that the  thrust of  that sub  section is  directed  against
+cases of  under-statement of  consideration. the crucial and
+important words  in sub-section  (2) are: "the full value ofk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 5the  consideration  declared  by  the  assessee".  the  word
+'declared'  is  very  eloquent  and  revealing.  it  clearly
+indicates that  the focus  of  sub-section  (2)  is  on  the
+consideration declared  or  disclosed  by  the  assessee  as
+distinguished from  the consideration  actually received  by
+him and  it contemplates  a  case  where  the  consideration
+received by  the assessee  in respect of the transfer is not
+truly declared  or disclosed  by  him  but  is  shown  at  a
+different figure. [647 d-g, 648 a-b]
+     (d) the  two circulars  issued by  the central board of
+direct taxes dated 7th july, 1964 and 14th january, 1974 are
+not only  binding on  the tax department in administering or
+executing the  provision enacted in sub-section (2), but are
+in nature  of contemporenea expositio, furnishing legitimate
+aid in the construction of sub-section (2). it is clear from
+these two  circulars that the central board of direct taxes,
+which is  the highest authority entrusted with the execution
+of the  provisions of  the act understood sub-section (2) as
+limited to
+633
+cases where  the consideration  for the  transfer  has  been
+under-stated  by  the  assessee.  these  two  circulars  are
+legally binding  on the  revenue and  this  legally  binding
+character attaches  to the  two circulars  even if  they  be
+found not  in accordance  with the correct interpretation of
+sub-section  (2)  and  they  depart  or  deviate  from  such
+construction. [650 a, f-g]
+     navnitlal c.  jhaveri v.  kk, sen,  56 i.t.r.  sc  198:
+ellerman lines  ltd. v.  commissioner  of  income-tax,  west
+bengal, 82 i.t.r. 913 (sc), followed. 1
+     4: 1, it is a well settled rule of law that the onus of
+establishing that the conditions of taxability are fulfilled
+is always  on the  revenue. to  throw the  burden of showing
+that there is no understatement of the consideration, on the
+assessee would  be to  cast an almost impossible burden upon
+him to  establish the  negative,  namely  that  he  did  not
+receive any  consideration beyond that declared by him. [653
+f-h, 654 a]
+     4: 2.  if the revenue seeks to bring a case within sub-
+section (2),  it must  show not  only that  the fair  market
+value of  the capital  asset as  on the date of the transfer
+exceeds the  full value of the consideration declared by the
+assessee by  not less than 15% of the value so declared, but
+also that  the consideration  has been  under-stated and the
+assessee has actually received more than what is declared by
+him. there  are two  distinct conditions  which have  to  be
+satisfied before  sub- section  (2) can  be invoked  by  the
+revenue and  the burden of showing that these two conditions
+are satisfied rests on the revenue. it is for the revenue to
+show that  each of these two conditions is satisfied and the
+revenue cannot  claim to  have discharged  this burden which
+lies upon  it, by  merely establishing  that the fair market
+value of  the capital  asset as  on the date of the transferk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 6exceeds by  15% or  more the full value of the consideration
+declared in  respect of the transfer and the first condition
+is therefore  satisfied. the  revenue must  go  further  and
+prove that the second condition is also satisfied. merely by
+showing that  the first  condition is satisfied, the revenue
+cannot ask  the court  to presume  that the second condition
+too is  fulfilled, because  even in  case  where  the  first
+condition of  15% difference  is satisfied,  the transaction
+may be a perfectly honest and bonafide transaction and there
+may  be   no  understatement   of  the   consideration.  the
+fulfillment of  the second  condition has  therefore  to  be
+established independently  of the first condition and merely
+because the  first condition  is satisfied, no inference can
+necessarily  follow   that  the  second  condition  is  also
+fulfilled.  each   condition  has   got  to  be  viewed  and
+established  independently  before  subsection  (2)  can  be
+invoked and  the burden  of  doing  so  is  clearly  on  the
+revenue. [653 b-f]
+     4:3. the object of imposing the condition of difference
+of 15%  or more between the fair market value of the capital
+asset and  the consideration  declared  in  respect  of  the
+transfer clearly  is to save the assessee from the rigour of
+subsection  (2)   in  marginal  cases  where  difference  in
+subjective valuation  by different individuals may result in
+an apparent  disparity between the fair market value and the
+declared  consideration.  this  condition  of  15%  or  more
+difference is  merely intended  to be  a  safeguard  against
+undue hardship  which would be occasioned to the assessee if
+the inflexible  rule of the thumb enacted in sub-section (2)
+were applied  in marginal case and it has nothing to do with
+the  question   of  burden  of  proof,  for  the  burden  of
+establishing that there is understatement of the concide-
+534
+ration in  respect of  the  transfer  always  rests  on  the
+revenue. the  postulate underlying  sub-section (2)  is that
+the difference  between one honest valuation and another may
+range upto  15% and  that constitutes  the class of marginal
+cases which  are taken out of the purview of sub-section (2)
+in order to avoid hardship to the assessee. [654 b-c, f-h]
+     4: 4.  once it  is established  by the revenue that the
+consideration for  the transfer  has been under-stated, sub-
+section (2)  is immediately  attracted, subject of course to
+the fulfillment  of the condition of 15% or more difference,
+and the  revenue is  then not  required to  show what is the
+precise extent of the understatement or in other words, what
+is the consideration actually received by the asseesee. that
+would in most cases be difficult, if not impossible, to show
+and hence sub-section (2) relieves the revenue of all burden
+of  proof   regarding  the   extent  of  under-statement  or
+concealment  and   provides  a   statutory  measure  of  the
+consideration received  in respect  of the transfer. it does
+not create  any fictional  receipt.  it  does  not  deem  as
+receipt something  which is  not in fact received. it merelyk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 7provides  a   statutory  best  judgment  assessment  of  the
+consideration actually  received by  the assessee and brings
+to tax  capital gains  od the  footing that  the fair market
+value  of   the  capital   asset   represents   the   actual
+consideration  received  by  the  assessee  as  against  the
+consideration untruly  declared or  disclosed by  him.  this
+approach in  construction of  sub-section (2)  falls in line
+with the scheme of the provisions relating to tax on capital
+gains. [665a-e]
+     4: 5.  section 52  is not  a charging  section but is a
+computation section.  it has to be read alongwith section 48
+which provides  the mode  of computation and under which the
+starting point  of computation  is "the  full value  of  the
+consideration received  or accruing  . what  in  fact  never
+accrued or  was never received cannot be computed as capital
+gains under  section 41. therefore sub-section (2) cannot be
+construed as  bringing within  the  computation  of  capital
+gains an  amount which, by no stretch of imagination, can be
+said to  have accrued  to the  assessee or  been received by
+him. [655 e-f]
+     4: 6. this construction of sub-section (2) also marches
+in step  with the  gift tax act, 1958. if a capital asset is
+transferred for  a consideration below its market value, the
+difference between  the market  value and  the full value of
+the p  consideration received  in respect  of  the  transfer
+would amount to a gift liable to tax under the gift tax act,
+1958. since  the income  tax act, 1961 and the gift tax act,
+1958 are  parts of an integrated scheme of taxation the same
+amount which  is chargeable as gift could not be intended to
+be charged also as capital gains. [656 a-c]
+     4: 7.  besides, under entry 82 in list i of the seventh
+schedule to  the constitution  which deals  with  "taxes  on
+income" and  under which  the income  tax act, 1961 has been
+enacted, parliament  cannot "choose to tax as income an item
+which in  no rational  sense can  be regarded as a citizen's
+income or even receipt. sub-section (2) would, therefore, on
+the construction  of the revenue, go outside the legislative
+power of parliament, and it would dot be possible to justify
+it even  as  an  incidental  or  ancillary  provision  or  a
+provision intended to prevent evasion of tax. [656 e-f]
+635
+     4: 8.  sub-section (2)  would also  be violative of the
+fundamental right  of the  assessee under  article 9(1) (f)-
+which fundamental  right was  in existence  at the time when
+sub-section (2) came to be enacted-since on the construction
+canvassed on  behalf of  the revenue,  the  effect  of  sub-
+section  (2)   would  be   to  penalize   the  assessee  for
+transferring his capital asset for a consideration lesser by
+15% or  more than  the fair  market  value  and  that  would
+constitute unreasonable restriction on the fundamental right
+of the assessee to dispose of his capital asset at the price
+of  his   choice.  the   court  must   obviously  prefer   a
+construction   which   renders   the   statutory   provisionk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 8constitutionally valid rather than that which makes it void.
+[656 f-h, 657 a]
+judgment:
+civil appellate jurisdiction: civil appeal no. 412(nt) of 1973 from the judgment and
+order dated the 5th july, 1972 of the kerala high court at ernakulam in writ appeal no. 127 of
+1970.
+m. m. abdul khadher, s.k. mehta, e.m.s. anam, p.n.puri and m.k dua for the appellant.
+s.t. desai and miss a. subhashini for the respondent anil b. diwan, dinesh vyas, p.h. parekh and
+r.n. karanjawala for the intervener.
+s. swaminathan, n. srinivasan and gopal subramaniam for the intervener.
+debi pal, praveen kumar and a.r. sharma for the intervener.
+k.r. kazi and s.c. patel for the intervener. n.a. palkhiwala, p.h. parekh, j.b. dadachanji, h. salve
+and ravinder narain for interveners.
+s.c. patel for the intervener.
+j.b. dadachanji for the intervener.
+b.k mohanty and c.s. rao for the intervener. p.a. francis and m.n. shroff for the intervener. the
+judgment of the court was delivered by bhagwati, j. the principal question that arises for deter-
+mination in this appeal by certificate is whether understatement of consideration in a transfer of
+property is a necessary condition for attracting the applicability of section 52 sub-section (2) of the
+income tax act 1961 (hereinafter referred as the act) or it is enough for the revenue to show that
+the fair market value of the property as on the date of the transfer exceeds the full value of the
+consideration declared by the assessee in respect of the transfer by an amount of not less than 15%
+of the value so declared. the facts giving rise to the appeal are not very material but since they from
+the backdrop against which the question arises for consideration, we may briefly state them.
+the assessee was the owner of a house situated in ernakulam, which he had purchased in 1958 for
+the price of rs. 16,500. on 25th december 1965 the assessee sold the house for the same price of rs.
+16,500 to his daughter-in- law and five of his children. the assessment of the assessee for the
+assessment year 1966-67 for which the relevant accounting year was the calendar year 1965 was
+thereafter completed m the normal course and in this assessment, no amount was included by way
+of capital gains in respect of the transfer of the house since the house was sold by the assessee at the
+same price at which it was purchased and no capital gains accrued or arose to him as a result of thek.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 9transfer. on 4th april 1968 however the income tax officer issued a notice under section 148 of the
+act seeking to reopen the assessment of the assessee for the assessment year 1966-67 and requiring
+the assessee to submit a return of income within thirty days of the service of the notice. the notice
+did not state what was the income alleged to have escaped assessment but by his subsequent letter
+dated 4th march 1969 the income-tax officer intimated to the assessee that he proposed to fix the
+fair market value of the house sold by the assessee on 25th december 1965 at rs. 65,000 as against
+the consideration of rs. 16,500 for which the house was sold and assess the difference of rs. 48,500
+as capital gains in the hands of the assessee. the assessee raised objections against the reassessment
+proposed to be made by the income-tax officer but the objections were over-ruled and an order of
+reassessment was passed by the income-tax officer including the sum of rs. 48,500 as capital gains
+and bringing it to tax. though the sale of the house by the assessee was in favour of his
+daughter-in-law and five of his children who were persons directly connected with him, the
+income-tax officer could not invoke the aid of section 52 sub-section (1) for bringing the sum of rs.
+48,500 to tax, because there was admittedly no under- statement a of consideration in respect of the
+transfer of the house and it was not possible to say that the transfer was effected by the assessee with
+the object of avoidance or reduction of his liability under section 45. the income-tax officer
+therefore rested his decision to assess the sum of rs. 48,500 to tax on sub-section (2) of section 52
+and taking the view that this sub-section did not require as a condition precedent that there should
+be under-statement of consideration in respect of the transfer and it was enough to attract the
+applicability of the sub-section if the fair market value of the property as on the date of the transfer
+exceeded the full value of the consideration declared by the assessee by an amount of not less than
+15% of the value so declared, which was indisputably the position in the present case, the
+income-tax officer assessed the sum of rs. 48,500 to tax as capital gains. the assessee thereupon
+preferred a writ petition in kerala high court challenging the validity of the order of reassessment
+in so far as it brought the sum of rs. 48,500 to tax relying on section 52 sub-section (2) of the act. d
+the writ petition came up for hearing before isaacs j. sitting as a single judge of the high court and
+after hearing both parties, the learned judge came to the conclusion that under-statement of
+consideration in respect of the transfer was a necessary condition for attracting the applicability of
+section 52 sub-section (2) and since in the present case there was admittedly no under-statement of
+consideration and it was a perfectly bonafide transaction, section 52 sub-section (2) had no
+application and the sum of rs. 48,500 could not be brought to tax as capital gains under that
+provision. the revenue appealed against this decision to a division bench of the high court and
+having regard to the importance and complexity of the question involved, the division bench
+referred the appeal to a full bench of three judges. the full bench heard the appeal but there was a
+division of opinion, two judges taking one view and the third judge taking another. while raghvan
+c.j. agreed substantially with the view taken by isaacs j., gopalan nambiar j. and vishwanath iyer
+j. took a different view and held that in order to bring a case within section 52 sub-section (2), it is
+not at all necessary that there should be under-statement of consideration in respect of the transfer
+and once it is found that the fair market value of the property as on the date of the transfer exceeds
+the full value of the consideration declared by the assessee in respect of the transfer by an amount of
+not less than 15% of the value so declared, section 52 sub-section (2) is straightaway attracted and
+the fair market value of the property as on the date of the transfer is liable to be taken as the full
+value of the consideration for the transfer. the writ petition was accordingly dismissed and the
+order of re-assessment sustained by the majority decision reached by the full bench. hence thek.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 10present appeal by the assessee with certificate obtained from the high court.
+it will be noticed from the above statement of facts that the principal question arising for
+determination in this appeal turns on the true interpretation of section 52 sub-section (2). but in
+order to arrive at its proper interpretation, it is necessary to refer to some other provisions of the act
+as well. section 2 clause (24) defines the word 'income'. the definition is inclusive and covers
+'capital gains' chargeable under section 45. section 4 is the charging section and it provides that
+income tax shall be charged in respect of the total income of the previous year of every person.
+section 5 defines the scope of 'total income' by providing that the total income of the previous year
+of a person who is resident shall include all income from whatever source derived which is received
+or is deemed to be received in india in such year by him or on his behalf or accrues or arises or is
+deemed to accrue or arise to him in india during such year or accrues or arises to him outside india
+during such year. section 14 enumerates the heads of income under which income shall, for the
+purposes of charge of income tax and computation of total income, be classified and they includes
+capital gains". section 45 provides that any profits or gains arising from the transfer of a capital
+asset effected in the previous year shall be chargeable to income tax under the head "capital gains"
+and shall be deemed to be the income of the previous year in which the transfer took place. the
+mode of computation of capital gains is laid down in section 48 which provides that the income
+chargeable under the head "capital gains" shall be computed by deducting from the full value of the
+consideration received or accruing as a result of the & transfer of the capital asset, two amounts,
+namely, (i) expenditure incurred wholly and exclusively in connection with such transfer and (ii) the
+cost of acquisition of the capital asset and the cost of any improvement thereto. then follows section
+52 which is the material section requiring to be construed in the present appeal. that section
+consists of two sub-sections and runs as follows:
+(1) where the person who acquires a capital asset from an assessee is directly or
+indirectly connected with the assessee and the income-tax officer has reason to
+believe that the transfer was effected with the object of avoidance or reduction of the
+liability of the assessee under section 45, the full value of the consideration for the
+transfer shall, with the previous approval of the inspecting assistant commissioner,
+be taken to be the fair market value of the capital asset on the date of the transfer.
+(2) without prejudice to the provisions of sub-section (1), if in the opinion of the
+income-tax officer the fair market value of a capital asset transferred by an assessee
+as on the date of the transfer exceeds the full value of the consideration declared by
+the assessee in respect of the transfer of such capital assets by an amount of not less
+than fifteen per cent of the value declared, the full value of the consideration for such
+capital asset shall, with the previous approval of the inspecting assistant
+commissioner, be taken to be its fair market value on the date of its transfer.
+there is a marginal note to section 52 which reads: consideration for transfer in cases of
+under-statement". it may be pointed out that originally when the act came to be enacted, section 52
+consisted of only one provision which is now numbered as sub-section (i) and it was by section 13 of
+the finance act 1964 that sub-section (2) was added in that section with effect from 1st april 1964.k.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 11now on these provisions the question arises what is the true interpretation of section 52, sub-section
+(2). the argument of the revenue was and this argument found favour with the majority judges of
+the full bench that on a plain natural construction of the language of section 52, sub- section (2),
+the only condition for attracting the applicability of that provision is that the fair market value of the
+capital asset transferred by the assessee as on the date of the transfer exceeds the full value of the
+consideration declared by the assessee in respect of the transfer by an amount of not less than 15%
+of the value so declared. once the income-tax officer is satisfied that this condition exists, he can
+proceed to invoke the provision in section 52 sub-section (2) and take the fair market value of the
+capital asset transferred by the assessee as on the date of the transfer as representing the full value
+of the consideration for the transfer of the capital asset and compute the capital gains on that basis.
+no more is necessary to be proved, contended the revenue. to introduce any further condition such
+as understatement of consideration in respect of the transfer would be to read into the statutory
+provision something which is not there: indeed it would amount to rewriting the section. this
+argument was based on a strictly literal reading of section 52 sub-section (2 but we do not think
+such a construction can be accepted. it ignores several vital considerations which must always be
+borne in mind when we are interpreting a statutory provision. the task of interpretation of a
+statutory enactment is not a mechanical task. it is more than a mere reading of mathematical
+formulae because few words possess the precision of mathematical symbols. it is an attempt to
+discover the intent of the legislature from the language used by it and it must always be remembered
+that language is at best an imperfect instrument for the expression of human thought and as pointed
+out by lord denning, it would be idle to expect every statutory provision to be "drafted with divine
+prescience and perfect clarity." we can do no better than repeat the famous words of judge learned
+hand when he said: " it is true that the words used, even in their literal sense, are the primary and
+ordinarily the most reliable, source of interpreting the meaning of any writing: be it a statute, a
+contract or anything else. but it is one of the surest indexes of a mature and developed
+jurisprudence not to make a fortress out of the dictionary; but to remember that statutes always
+have some purpose or object to accomplish, whose sympathetic and imaginative discovery is the
+surest guide to their meaning." we must not adopt a strictly literal interpretation of section 52
+sub-section (2) but we must construe its language having regard to the object and purpose which the
+legislature had in view in enacting that provision and in the context of the setting in which it occurs.
+we cannot ignore the context and the collocation of the provisions in which section 52 sub-section
+(2) appears, because, as pointed out by judge learned hand in most i felicitous language the
+meaning of a sentence may be more than that of the separate words as a melody is more than the
+notes, and no degree of particularity can ever obviate recourse to the setting in which all appear, and
+which all collectively create". keeping these observations in mind we may now approach the
+construction of section 52 sub-section (2).
+the primary objection against the literal constriction of section 52 sub-section (2) is that it leads to
+manifestly unreasonable and absurd consequences. it is true that the consequences of a suggested
+construction cannot alter the meaning of a statutory provision but they can certainly help to fix its
+meaning. it is a well recognised rule of construction that a statutory provision must be so construed,
+if possible that absurdity and mischief may be avoided. there are many situations where the
+construction suggested on behalf of the revenue would lead to a wholly unreasonable result which
+could never have been intended by the legislature. take, for example, a case where a agrees to sellk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 12his property to for a certain price and before the sale is completed pursuant to the agreement and it
+is quite well- known that sometimes the competition of the sale may take place even a couple of
+years after the date of the agreement-the market price shoots up with the result that the market
+price prevailing on the date of the sale exceeds the agreed price at which the property is sold by
+more than 15% of such agreed price. this is not at all an uncommon case in an economy of rising
+prices and in fact we would find in a large number 1 of cases where the sale is completed more than a
+year or two after the date of the agreement that the market price prevailing on the date of the sale is
+very much more than the price at which the property is sold under the agreement. can it be
+contended with any degree of fairness and justice that in such cases, where there is clearly no
+under-statement of consideration in respect of the transfer and the transaction is perfectly honest
+and bonafide and, in fact, in fulfilment of a contractual obligation, the assessee who has sold the
+property should be liable to pay tax on capital gains which have not accrued or arisen to him. it
+would indeed be most harsh and inequitable to tax the assessee on income which has neither arisen
+to him nor is received by him, merely because he has carried out the contractual obligation under-
+taken by him. it is difficult to conceive of any rational reason why the legislature should have
+thought it fit to impose liability to tax on an assessee who is bound by law to carry out his
+contractual obligation to sell the property at the agreed price and honestly carries out such
+contractual obligation. it would indeed be strange if obedience to the law should attract the levy of
+tax on income which has neither arisen to the assessee nor has been received by him. if we may take
+another illustration, let us consider a case where a sells his property to with a stipulation that after
+some-time which may be a couple of years or more, he shall resell the property to a for the same
+price.
+could it be contended in such a case that when transfers the property to a for the same price at
+which he originally purchased it, he should be liable to pay tax on the basis as if he has received the
+market value of the property as on the date of resale, if, in the meanwhile, the market price has shot
+up and exceeds the agreed price by more than 15% many other similar situations can be
+contemplated where it would be absurd and unreasonable to apply section 52 sub- section (2)
+according to its strict literal construction. we must therefore eschew literalness in the interpretation
+of section 52 sub-section (2) and try to arrive at an interpretation which avoids this absurdity and
+mischief and makes the provision rational and sensible, unless of course, our hands are tied and we
+cannot find any escape from the tyranny of the literal interpretation. it is now a well settled rule of
+construction that where the plain literal interpretation of a statutory provision produces a
+manifestly absurd and unjust result which could never have been intended by the legislature, the
+court may modify the language used by the legislature or even 'do some violence' to it, so as to
+achieve the obvious intention of the legislature and produce a rational construction, vide: luke
+inland revenue commissioner(1) the court may also in such a case read into the statutory
+provision a condition which, though not expressed, is implicit as constituting the basic assumption
+underlying the statutory provision. we think that, having regard to this well recognised rule of
+interpretation, a fair and reasonable construction of section 52 sub-section (2) would be to read into
+it a condition that it would apply only where the consideration for the transfer is under-stated or in
+other words, the assessee has actually received a larger consideration for the transfer than what is
+declared in the instrument of transfer and it would have no application in case of a bonafinde
+transaction where the full value of the consideration for the transfer is correctly declared by thek.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 13assessee. there are several important considerations which incline us to accept this construction of
+section 52 sub- section (2).
+the first consideration to which we must refer is the object and purpose of the enactment of section
+52 sub- section (2). prior to the introduction of sub-section (2), section 52 consisted only of what is
+now sub-section (1). this sub-section provides that where an assessee transfers a capital asset and in
+respect of the transfer two conditions are satisfied' namely, (1) the transferee is a person directly or
+indirectly connected with the assessee and (ii) the income-tax officer has reason to believe that the
+transfer was effected a with the object of avoidance or reduction of the liability of the assessee to tax
+on capital gains, the fair market value of the capital asset on the date of the transfer shall be taken to
+be the full value of consideration for the transfer and the assessee shall be taxed on capital gains on
+that basis. the second condition obviously involves under-statement of the consideration in respect
+of the transfer because it is only by showing the consideration for the transfer at a lesser figure than
+that actually received that the assessee can achieve the object of avoiding or reducing his liability to
+tax on capital gains. and that is why the marginal note to section 52 reads: "consideration for the
+transfer in cases of under- statement''. but, it must be noticed that for the purpose of bringing a case
+within sub-section (1), it is not enough merely to show understatement of consideration but it must
+be further shown that the object of the under-statement was to avoid or reduce the liability of the
+assessee to tax on capital gains. now it is necessary to bear in mind that when capital gains are
+computed by invoking sub-section (i) it is not any fictional accrual or receipt of income which is
+brought to tax. sub-section (i) does not deem income to accrue or to be received which in fact never
+accrued or was never received. it seeks to bring within the net of taxation only that income which
+has accrued or is received by the assessee as a result of the capital asset. but since the actual
+consideration received by the assessee is not declared or disclosed and in most of the cases, if not all,
+it would not be possible for the income-tax officer to determine precisely what is actual
+consideration received by the assessee or in other words how much m ore consideration is received
+by the assessee than that declared by him, sub- section (1) provides that the fair market value of the
+property as on the date of the transfer shall be taken to be the full value of the consideration for the
+transfer which has accrued to or is received by the assessee. once it is found that the consideration
+in respect of the transfer is understated and the conditions specified in sub-section (1) are fulfilled,
+the income-tax officer will not be called upon to prove the precise extent of the undervaluation or in
+other words, the actual extent of the concealment and the full value of the consideration received for
+the transfer shall be computed in the manner provided in subsection (1). the net effect of this
+provision is as if a statutory best judgment assessment of the actual consideration received by the
+assessee is made, in the absence of reliable materials.
+but the scope of sub-section (1) of section 52 is extremely restricted because it applies only where
+the transferee is a person directly or indirectly connected with the assessee and the object of the
+under-statement is to avoid or reduce the income-tax liability of the assessee to tax on capital gains.
+there may be cases where the consideration for the transfer is shown at a lesser figure than that
+actually received by the assessee but the transferee is not a person directly or indirectly connected
+with the assessee or the object of under-statement of the consideration is unconnected with tax on
+capital gains. such cases would not be within the reach of sub section (1) and the assessee, though
+dishonest, would escape the rigour of the provision enacted in that sub-section. parliamentk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 14therefore enacted sub-section (2) with a view to extending the coverage of the provision in
+sub-section (i) to other cases of under statement of consideration. this becomes clear if we have
+regard to the object and purpose of the introduction of sub-section (2) as appearing from travaux
+preparatoire relating to the enactment of that provision. it is a sound rule of construction of a
+statute firmly established in england as far back as 1584 when heydon's case(1) was decided that"...
+for the sure and true interpretation of all statutes in general-four things are to be discerned and
+considered: (1) what was the common law before the making of the act, (2) what was the mischief
+and defect for which the common law did not provide, (3) what remedy the parliament hath
+resolved and appointed to cure the disease of the commonwealth, and (4) the true reason of the
+remedy, and then the office of all the judges is always to make such construction as shall suppress
+the mischief, and advance the remedy". in in re mayfair property company(2) lindley. m.r. in 1898
+found the rule "as necessary now as it was when lord coke reported heydon's case". the rule was
+reaffirmed by earl of halsbury in eastman photographic material company v. comptroller general
+of patents, designs and trade marks(3) in the following words.
+"my lords, it appears to me that to construe the statute in question, it is not only
+legitimate but highly convenient to refer both to the former act and to the
+ascertained evils to which the former act had given rise, and to the later act which
+provided the remedy. these three being a compared i cannot doubt the conclusion."
+this rule being a rule of construction has been repeatedly applied in india in interpreting statutory
+provisions. it would therefore be legitimate in interpreting sub-section (2) to consider that was the
+mischief and defect for which section 52 as it then stood did not provide and which was sought to be
+remedied by the enactment of sub-section (2) or in other words, what was the object and purpose of
+enacting that sub-section. now in this connection the speech made by the finance minister while
+moving the amendment introducing sub-section (2) is extremely relevant, as it throws considerable
+light on the object and purpose of the enactment or sub-section (2). the finance minister explained
+the reason for introducing sub-section (2) in the following words:
+"today, particularly every transaction of the sale of property is for a much lower
+figure than what is actually received. the deed of registration mentions a particular
+amount; the actual money that passes is considerably more. it is to deal with these
+classes of sales that this amendment has been drafted-it does not aim at perfectly
+bona fide transactions.. but essentially relates to the day-to-day occurrences that are
+happening before our eyes in regard to the transfer of property. i think, this is one of
+the key sections that should help us to defeat the free play of unaccounted money and
+cheating of the government."
+now it is true that the speeches made by the members of the legislature on the floor of the house
+when a bill for enacting a statutory provision is being debated are inadmissible for the purpose of
+interpreting the statutory provision but the speech made by the mover of the bill explaining the
+reason for the introduction of the bill can certainly be referred t o for the purpose of ascertaining the
+mischief sought to be remedied by the legislation and the object and purpose for which the
+legislation is enacted. this is in accord with the recent trend in juristic thought not only in westernk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 15countries but also in india that interpretation of a statute being an exercise in the ascertainment of
+meaning, everything which is logically relevant should be admissible. in fact there are at least three
+decisions of this court, one in loka shikshana trust v. commissioner of income-tax(1) the other in
+indian chamber of commerce v. commissioner of income-tax(2) and the third in additional
+commissioner of income-tax v. surat art silk cloth manufacturers association(3) where the speech
+made by the finance minister while introducing the exclusionary clause in section 2 clause (15) of
+the act was relied upon by the court for the purpose of ascertaining what was the reason for
+introducing that clause. the speech made by the finance minister while moving the amendment
+introducing sub- section (2) clearly states what were the circumstances in which sub-section (2)
+came to be passed, what was the mischief for which section 52 as it then stood did not provide and
+which was sought to be remedied by the enactment of sub-section (2) and why the enactment of
+sub-section (2) was found necessary. it is apparent from the speech of the finance minister that
+sub-section(2) was enacted for the purpose of reaching those cases where there was under-
+statement of consideration in respect of the transfer or to put it differently, the actual consideration
+received for the transfer was 'considerably more' than that declared or shown by the assessee, but
+which were not covered by sub- section (1) because the transferee was not directly or indirectly
+connected with the assessee. the object and purpose of sub-section (2), as explicated from the
+speech of the finance minister, was not to strike at honest and bonafide transactions where the
+consideration for the transfer was correctly 13: disclosed by the assessee but to bring within the net
+of taxation those transactions where the consideration in respect of the transfer was shown at a
+lesser figure than that actually received by the assessee, so that they do not escape the charge of tax
+on capital gains by under-statement of the consideration. this was real object and purpose of the
+enactment of sub-section (2) and the interpretation of this sub-section must fall in line with the
+advancement of that object and purpose. we must therefore accept as the underlying assumption of
+sub-section (2) that there is under-statement of consideration in respect of the transfer and
+sub-section (2) applies only where the actual consideration received by the assessee is not disclosed
+and the consideration declared in respect of the transfer is shown at a lesser figure than that actually
+received.
+this interpretation of sub-section (2) i strongly supported by a the marginal note to section 52
+which reads 'consideration for transfer in cases of under-statement'. it is undoubtedly true that the
+marginal note to a section cannot be referred to for the purpose of construing the section but it can
+certainly be relied upon as indicating the drift of the section or, to use the words of collins mr in
+bushel v. hammond(l) to show what the section is dealing with. it cannot control the interpretation
+of the words of a section particularly when the language of the section is clear and unambiguous but,
+being part of the statute, it prima facie furnishes some clue as to the meaning and purpose of the
+section. vide bengal immunty company limited v. state of bihar(2) the marginal note to section
+52. as it now stands, was originally a marginal note only to what is presently sub-section (i) and
+significantly enough, this marginal note remained unchanged even after the introduction of
+sub-section (2) suggesting clearly that it was meant by parliament to apply to both sub-sections of
+section 52 and it must therefore be taken as indicating that, like sub- section (1), sub-section (2) is
+also intended to deal with cases where there is under-statement of the consideration in respect of
+the transfer.k.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 16but apart from these considerations, the placement of subsection (2) in section 52 does indicate in
+some small measure that parliament intended that sub-section to apply only to cases where the
+consideration in respect of the transfer is under-stated by the assessee. it is not altogether without
+significance that the provision in sub- section (2) was enacted by parliament not as a separate
+section, but as part of section 52 which, as it originally stood, dealt only with cases of
+under-statement of consideration. if parliament intended sub-section (2) to cover all cases where
+the condition of 15% difference is satisfied, irrespective of whether there is understatement of
+consideration or not, it is reasonable to assume that parliament would have enacted that provision
+as a separate section and not pitch-forked it into section 52 with a total stranger under an
+inappropriate marginal note. moreover there is inherent evidence in sub-section (2), which suggests
+that the thrust of that sub-section is directed against cases of under-statement of consideration. the
+crucial and important words in sub-section (2) are: "the full value of the consideration declared by
+the assessee", the word 'declared' is very eloquent and revealing. it clearly indicates that the focus of
+sub-section (2) is on the consideration declared or disclosed by the assessee as distinguished from
+the consideration actually received by him and it contemplates a case where the consideration
+received by the assessee in respect of the transfer is not truly declared or disclosed by him but is
+shown at a different figure. this or course is a very small factor and by itself of little consequence but
+alongwith the other factors which we have discussed above, it assumes same significance as
+throwing light on the true intent of sub-section (2).
+there is also one other circumstance which strongly reinforces the view we are taking in regard to
+the construction of sub-section (2). soon after the introduction of sub-section (2), the central board
+of direct taxes, in exercise of the power conferred under section 119 of the act, issued a circular
+dated 7th july, 1964 explaining the scope and object of sub-section (2) in the following words:
+"section 13 of the finance act has introduced a new sub-section (2) in section 52 of
+the income-tax act with a view to countering evasion of tax on capital gains through
+the device of an under-statement of the full value of the consideration received or
+receivable on the transfer of a capital asset.
+the provision existing in section 52 of the income-tax act before the amendment
+(which has now been remembered as sub-section (2) enables the computation of
+capital gains arising on transfer of a capital asset with . reference to its fair market
+value as on the date of its : transfer, ignoring the amount of the consideration shown
+by the assessee, only if the following two conditions are satisfied:
+(a) the transferee is a person who is directly.
+or indirectly connected with assessee, and
+(b) the income-tax officer has reason to believe that the transfer was effected with
+object of avoidance or reduction of the liability of assessee to tax of capital gains.k.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 17in view of these conditions, this provision has a limited operation and does not apply
+to other cases where the tax liability on capital gains arising on transfer of capital a
+assets between parties not connected with each other, is sought to be avoided or
+reduced by an under-statement of the consideration paid for the transfer of the asset
+"
+the circular also drew the attention of income-tax authorities to the assurance given by the finance
+minister in his speech that sub- b section (2) was not aimed at perfectly honest and bonafide
+transactions where the consideration in respect of the transfer was correctly disclosed or declared by
+the assessee, but was intended to deal only with cases where the consideration for the transfer was
+under-stated by the assessee and was shown at a lesser figure than that actually received by him. it
+appears that despite this circular, the income-tax authorities in several cases levied tax by invoking
+the provision in sub- section (2) even in cases where the transaction was perfectly, honest and
+bonafide and there was no under- statement of the consideration. this was quite contrary to the
+instructions issued in the circular which was binding on the tax department and the central board
+of direct taxes was, therefore, constrained to issue another circular on 14th january, 194 whereby
+the central board, after reiterating the assurance given by the finance minister in the course of his
+speech pointed out:
+"it has come to the notice of the board that in some cases the income-tax officers
+have invoked the provisions of section 52(2) even when the transactions were
+bonafide. in this context reference is invited to the decision of the supreme court in
+navnitlal c. jhaveri v. r k sen(1) and ellerman lines ltd. v. commissioner of
+income-tax, west bengal(2) wherein it was held that the circular issued by the board
+would be binding on all officers and persons employed in the execution of the
+income-tax act. thus, the income-tax officers are bound to follow the instructions
+issued by the board."
+and instructed the income-tax officers that "while completing the assessments they should keep in
+mind the assurance given by the minister of finance and the provisions of section 52(2) of the
+income-tax act may not be invoked in cases of bonafide trans-
+actions". these two circulars of the central board of direct taxes are, as we shall presently point
+out, binding on the tax department in administering or executing the provision enacted in
+sub-section (2), but quite apart from their binding character, they are clearly in the nature of
+contemporanea expositio furnishing legitimate aid in the construction of sub-section (2). the rule of
+construction by reference to contemporanea expositio is a well established rule for interpreting a
+statute by reference to the exposition it has received from contemporary authority, though it must
+give way where the language of the statute is plain and unambiguous. this rule has been succinctly
+and felicitously expressed in crawford on statutory construction (1940 ed) where it is stated in
+paragraph 219 that "administrative construction (i. e. contemporaneous construction placed by
+administrative or executive officers charged with executing a statute) generally should be clearly
+wrong before it is overturned; such a construction, commonly referred to as practical construction,
+although non-controlling, is nevertheless entitled to considerable weight; it is highly persuasive."k.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 18the validity of this rule was also recognised in baleshwar bagarti v. bhagirathi dass(1) where
+mookerjee, j. stated the rule in these terms:
+"it is a well-settled principle of interpretation that courts in construing a statute will
+give much weight to the interpretation put upon it, at the time of its enactment and
+since, by those whose duty it has been to construe, execute and apply it."
+and this statement of the rule was quoted with approval by this court in deshbandhu guptu & co. v.
+delhi stock exchange association ltd.(2) it is clear from these two circulars that the central board
+of direct taxes, which is the highest authority entrusted with the execution of the provisions of the
+act, understood sub section (2) as limited to cases where the consideration for the transfer has been
+under- stated by the assessee and this must be regarded as a strong circumstance supporting the
+construction which we are placing on that sub-section.
+but the construction which is commending itself to us does not rest merely on the principle of
+contemporanea expositio. the two circulars of the central board of direct taxes to which we have
+just referred are legally binding on the revenue and this binding character attaches to the two
+circulars even if they be found not in accordance with the correct interpretation of subsection (2)
+and they depart or deviate from such construction. it is now well-settled as a result of two decisions
+of this court, one in navnitlal c. jhaveri v. rr. sen(1) and the other in ellerman lines ltd. v.
+commissioner of income-tax, west bengal(2) that circulars issued by the central board of direct
+taxes under section 119 of the act are binding ( n all officers and persons employed in the execution
+of the act even if they deviate from the provisions of the act. the question which arose in navnitlal
+c. jhaveri's case (supra) was in regard to the constitutional validity of sections 2(6a) (e) and 12(1b)
+which were introduced in the indian income tax act 1922 by the finance act 1955 with effect from
+1st april, 1955. these two sections provided that any payment made by a closely held company to its
+shareholder by a way of advance or loan to the extent to which the company possesses accumulated
+profits shall be treated as dividend taxable under the act and this would include any loan or advance
+made in any previous year relevant to any assessment year prior to the assessment year 1955-56, if
+such loan or advance remained outstanding on the first day of the previous year relevant to the
+assessment year 1955-56. the constitutional validity of these two sections was assailed on the
+ground that they imposed unreasonable restrictions on the fundamental right of the assessee under
+article 19(1) (f) and (g) of the constitution by taxing outstanding loans or advances of past years as
+dividend. the revenue however relied on a circular issued by the central board of revenue under
+section 5(8) of the indian lncome-tax act 1922 which corresponded to section 119 of the present act
+and this circular provided that if any such outstanding loans or advances of past years were repaid
+on or before 30th june 1922, they would not be taken into account in determining the tax liability of
+the shareholders to whom such loans or advances were given. this circular was clearly contrary to
+the plain language of section 2(6a)(e) and section 121(b), but even so this court held that it was
+binding on the revenue and since "past transactions which would normally have attracted the
+stringent provisions of section 12(1b) as it was introduced in 1955, were substantially granted
+exemption from the operation of the said provisions by making it clear to all the companies and
+their shareholders that if the past loans were genuinely refunded to the companies they would not
+be taken into account under section 12(1b)" sections 2(6a) (e) and 12(1b) did not suffer from thek.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 19vice of unconstitutionality. this decision was followed in ellerman lines case (supra) where
+referring to another circular issued by the central board of revenue under section 5(8) of the indian
+income tax act 1922 on which reliance was placed on behalf of the assessee, this court observed:
+"now, coming to the question as to the effect of instructions issued under section 5(8)
+of the act, this j court observed in navnit lal c. jhaveri v. r. k. shah appellate
+assistant commissioner, bombay. "it is clear that a circular of the kind which was
+issued by the board would be binding on all officers and persons employed in the
+execution of the act under section 5(8) of the act. this circular pointed out to all the
+officers that it was likely that some of the companies might have advanced loans to
+their shareholders as a result of genuine trans actions of loans, and the idea was not
+to affect such transactions and not to bring them within the mischief of the new
+provision.
+the directions given in that circular clearly deviated from the provisions of the act,
+yet this court held that circular was binding on the income-tax officers."
+the two circulars of the central board of direct taxes referred to above must therefore be held to be
+binding on the revenue in the administration or implementation of sub- section (2) and this sub
+section must be read as applicable only to cases where there is under-statement of the consideration
+in respect of the transfer.
+thus it is not enough to attract the applicability of sub-section (2) that the fair market value of the
+capital asset transferred by the assessee as on the date of the transfer exceeds the full value of the
+consideration declared in respect of the transfer by not less than 15% of the value so declared, but it
+is furthermore necessary that the full value of the consideration in respect of the transfer is
+under-stated or in other words, shown at a lesser figure than that actually received by the assessee.
+sub-section (2) has no application in case of an honest and bonafide transaction where the
+consideration in respect of the transfer has been correctly declared or disclosed by the assessee, even
+if the condition of 15% difference between the fair market value of the capital asset as on the date of
+the transfer and the full value of the consideration declared by the assessee is satisfied. if therefore
+the revenue seeks to bring a case within sub-section (2), it must show not only that the fair market
+value of the capital asset as on the date of the transfer exceeds the full value of the consideration
+declared by the assessee by not less than 15% of the value so declared, but also that the
+consideration has been under- stated and the assessee has actually received more than what is
+declared by him. there are two distinct conditions which have to be satisfied before sub-section (2)
+can be invoked by the revenue and the burden of showing that these two conditions are satisfied
+rests on the revenue. it is for the revenue to show that each of these two conditions is satisfied and
+the revenue cannot claim to have discharged this burden which lies upon it, by merely establishing
+that the fair market value of the capital asset as on the date of the transfer exceeds by 15% or more
+the full value of the consideration declared in respect of the transfer and the first condition is
+therefore satisfied. the revenue must go further and prove that the second condition is also
+satisfied. merely by showing that the first condition is satisfied, the revenue cannot ask the court to
+presume that the second condition too is fulfilled, because even in a case where the first condition ofk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 2015% difference is satisfied, the transaction may be a perfectly honest and bonafide transaction and
+there may be no under-statement of the consideration. the fulfilment of the second condition has
+therefore to be established independently of the first condition and merely because the first
+condition is satisfied, no inference can necessarily follow that the second condition is also fulfilled.
+each condition has got to be viewed and established independently before sub- section () can be
+invoked and the burden of doing so is clearly on the revenue. it is a well settled rule of law that the
+onus of establishing that the conditions of taxability are fulfilled is always on the revenue and the
+second condition being as much a condition of taxability as the first, the burden lies on the revenue
+to show that there is understatement of the consideration and the second condition is fulfilled.
+moreover, to throw the burden of showing that there is no understatement of the consideration, on
+the assessee would be to cast an almost impossible burden upon him to establish the negative,
+namely, that he did not receive any consideration beyond that declared by him.
+but the question then arises why has parliament introduced the first condition as a pre-requisite for
+the applicability of subsection (2) ? why has parliament provided that in order to attract the
+applicability of sub- section (2) the fair market value of the capital asset as on the date of the
+transfer should exceed by 15% or more the full value of the consideration for the transfer declared by
+the assessee ? the answer is obvious. the object of imposing the condition of difference of 15% or
+more between the market value of the capital asset and the consideration declared in respect of the
+transfer clearly is to save the assessee from the rigour of sub-section (2) in marginal cases where
+difference in subjective valuation by different individuals may result in an apparent disparity
+between the fair market value and the declared consideration. it is a well known fact borne out by
+practical experience that the determination of fair market value of a capital asset is generally a
+matter of estimate based to some extent on guess work and despite the utmost bonafides, the
+estimate of the fair market value is bound to vary from individual to individual. it is obvious that if
+the restrictive condition of difference of 15% or more between the fair market value of the capital
+asset as on the date of the transfer and the consideration declared in respect of the transfer were not
+provided in sub-section (2), many marginal cases would, having regard to the possibility of
+difference of opinion in subjective assessment of the fair market value, fall within the mischief of
+that sub-section and the statutory measure enacted in that sub-section for determining the
+consideration actually received by the assessee would be applicable in all its rigour in such cases.
+this condition of 15% or more difference is merely intended to be a safeguard against under
+hardship which would be occasioned to the assessee if the inflexible rule of the thumb enacted in
+sub section (2) were applied in marginal cases and it has nothing to do with the question of burden
+of proof, for the burden of establishing that there is under-statement of the consideration in respect
+of the transfer always rests on the revenue. the postulate underlying sub-section (2) is that the
+difference between one honest valuation and another may range upto 15% and that constitutes the
+class of marginal cases which are taken out of the purview of sub-section (2) in order to avoid
+hardship to the assessee.
+it is therefore clear that sub-section (2) cannot be invoked by a the revenue unless there is
+under-statement of the consideration in respect of the transfer and the burden of showing that there
+is such under-statement is on the revenue. once it is established by the revenue that the
+consideration for the transfer has been understated or, to put it differently, the considerationk.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 21actually received by the assessee is more than what is declared or disclosed by him, sub- section (2)
+is immediately attracted. subject of course to the fulfilment of the condition of 15% or more
+difference, and the revenue is then not required to show what is the precise extent of the
+understatement or in other words, what is the consideration actually received by the assessee. that
+would in most cases be difficult.....if not impossible, to show and hence sub-section (2) relieves the
+revenue of all burden of proof regarding the extent of understatement or concealment and provides
+a statutory measure of the consideration received in respect of the transfer. it does not create any
+fictional receipt. it does not deem as receipt something which is not in fact received. it merely
+provides a statutory best judgment assessment of the consideration actually received by the assessee
+and brings to tax capital gains on the footing that the fair market value of the capital asset
+represents the actual consideration received by the assessee as against the consideration untruly
+declared or disclosed by him. this approach in construction of sub-section (2) falls in line with the
+scheme of the provisions relating to tax on capital gains. it may be noted that section 52 is not a
+charging section but is a computation section. it has to be read alongwith section 48 which provides
+the mode of computation and under which the starting point of computation is "the full value of the
+consideration received or accruing". what in fact never accrued or was never received cannot be
+computed as capital gains under section 48. therefore sub- section (2) cannot be construed as
+bringing within the computation of capital gains an amount which, by no stretch of imagination, can
+be said to have accrued to the assessee or been received by him and it must be confined to cases
+where the actual consideration received for the transfer is under-stated and since in such cases it is
+very difficult, if not impossible, to determine and prove the exact quantum of the suppressed
+consideration, sub-section (2) provides the statutory measure for determining the consideration
+actually received by the assessee and permits the revenue to take the fair market value of the capital
+asset as the full value of the consideration received in respect of the transfer.
+this construction which we are placing on sub-section (2) also marches in step with the gift tax act,
+1958. if a capital asset is transferred for a consideration below its market value, the difference
+between the market value and the full value of the consideration received in respect of the transfer
+would amount to a gift liable to tax under the gift tax act, 1958, but if the construction of
+sub-section (2) contended for on behalf of the revenue were accepted, such difference would also be
+liable to be added as part of capital gains taxable under the provisions of the income tax act, 1961.
+this would be an anomalous result which could never have been contemplated by the legislature,
+since the income tax act, 1961 and the gift tax act, 1958 are parts of an integrated scheme of
+taxation and the same amount which is chargeable as gift could not be intended to be charged also
+as capital gains.
+moreover, if sub-section (2) is literally construed as applying even to cases where the full value of
+the consideration in respect of the transfer is correctly declared or disclosed by the assessee and
+there is no understatement of the consideration, it would result in an amount being taxed which has
+neither accrued to the assessee nor been received by him and which from no view point can be
+rationally considered as capital gains or any other type of income. it is a well settled rule of
+interpretation that the court should as for as possible avoid that construction which attributes
+irrationality to the legislature. besides, under entry 82 in list i of the seventh schedule to the
+constitution which deals with "taxes on income" and under which the income tax act, 1961 hask.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 22been enacted, parliament cannot "choose to tax as income as item which in no rational sense can be
+regarded as a citizens income or even receipt. sub-section (2) would, therefore, on the construction
+of the revenue, go outside the legislative power of parliament, and it would not be possible to justify
+it even as an incidental or ancillary provision or a provision intended to prevent evasion of tax.
+sub-section (2) would also be violative of the fundamental right of the assessee under article 19 (1)
+(f)-which fundamental right was in existence at the time when sub-section (2) came to be
+enacted-since on the construction canvassed on behalf of the revenue, the effect of sub section (2)
+would be to penalise the assessee for transferring his capital asset for a consideration lesser by 15%
+or more than the fair market value and that would constitute unreasonable restriction on the
+fundamental right of the assessee to dispose of his capital asset at the price of his choice. the court
+must obviously prefer a a construction which renders the statutory provision constitutionally valid
+rather than that which makes it void.
+we must therefore hold that sub-section (2) of sec. 52 can be invoked only where the consideration
+for the transfer has been understated by the assessee or in other words, the consideration actually
+received by the assessee is more than what is declared or disclosed by him and the burden of proving
+such under-statement or concealment is on the revenue. this burden may be discharged by the
+revenue by establishing facts and circumstances from which a reasonable inference can be drawn
+that the assessee has not a correctly declared or disclosed the consideration received by him and
+there is understatement of concealment of the consideration in respect of the transfer. sub-section
+(2) has no application in case of an honest and bonafide transaction where the consideration
+received by the assessee has been correctly declared or disclosed by him, and there is no
+concealment or suppression of the consideration. we find that in the present case, it was not the
+contention of the revenue that the property was sold by the assesssee to his daughter-in-law and
+five of his children for a consideration which was more than the sum of rs. 16,500 shown to be the
+consideration for the property in the instrument of transfer and there was understatement or
+concealment of the consideration in respect of the transfer. it was common ground between the
+parties and that was a finding of fact reached by the income-tax authorities, that the transfer of the
+property by the assessee was a perfectly, honest and bonafide transaction where the full value of the
+consideration received by the assessee was correctly disclosed at the figure of rs. 16,500. therefore,
+on the construction placed by us, subsection (2) had no application to the present case and the
+income-tax officer could have no reason to believe that any part of the income of the assessee had
+escaped assessment so as to justify the issue of a notice under section 148. the order of
+re-assessment made by the income-tax officer pursuant to the notice issued under section 148 was
+accordingly without jurisdiction and the majority judges of the full bench were in error in refusing
+to quash it.
+we accordingly allow the appeal, set aside the order passed by the full bench and restore the order
+of issac, j. allowing the writ petition and quashing the order of re-assessment made by the
+income-tax officer. the revenue will pay the costs of the assessee throughout.
+s.r.                                   appeal allowed.k.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 23k.p. varghese vs the income tax ... on 4 september, 1981
+indian kanoon - http://indiankanoon.org/doc/399708/ 24

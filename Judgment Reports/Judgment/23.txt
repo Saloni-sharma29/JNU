@@ -1,0 +1,220 @@
+supreme court of india
+chainrup sampatram vs commissioner of income-tax,west ... on 9 october, 1953
+equivalent citations: 1953 air 519, 1954 scr 211
+author: m p sastri
+bench: sastri, m. patanjali (cj), das, sudhi ranjan, bose, vivian, hasan, ghulam, bhagwati,
+natwarlal h.
+           petitioner:
+chainrup sampatram
+        vs.
+respondent:
+commissioner of income-tax,west bengal.
+date of judgment:
+09/10/1953
+bench:
+sastri, m. patanjali (cj)
+bench:
+sastri, m. patanjali (cj)
+das, sudhi ranjan
+bose, vivian
+hasan, ghulam
+bhagwati, natwarlal h.
+citation:
+ 1953 air  519            1954 scr  211
+ citator info :
+ rf         1991 sc1338  (17)
+act:
+indian  income-tax  act  (xi of  1922),  ss.  4(1)(b)   and
+14(2)(c)-ascertainment    of   profit   by   valuation    of
+ stock-stock-in-trade  removed  to native  state-place  where
+ profit accrues -exemption under s. 14 (2)    (c)-principles
+ underlying valuation of stock.
+headnote:
+  the  assesses firm which carried on business at  calcutta
+in bullion despatched during the accounting year to bikaner,
+where  its  partners resided, a certain quantity  of  silver
+bars  and showed them a,; having been sold to the  partners.
+the income-tax authorities disbelieved the story of the sale
+and, treating the bars as stock-in-trade and valuing them at
+their  market value at the close of the year which was  much
+higher  than  the cost, assessed the firm's profits  at  rs.
+2,20,887.  the assessee contended that, even admitting  that
+the  bars  were  the stock-in-trade  of  the  business,  thechainrup sampatram vs commissioner of income-tax,west ... on 9 october, 1953
+indian kanoon - http://indiankanoon.org/doc/127231/ 1increased value at the close of the year accrued at  bikaner
+and  was exempt from tax in british india under s.  14(2)(c)
+of  the  income-tax  act.   the high  court  held  that  the
+notional  profit representing the appreciation in  value  of
+the  stock-in-trade  emerged out of the  valuation  and  the
+profit accordingly arose at the time when, and at the  place
+where, the valuation was made, and as the valuation was made
+at  calcutta  s. 14(2)(c) did not apply and the  profit  was
+taxable.  on appeal,
+212
+held, that the view of the high court that the profit  &rose
+out  of the valuation of the closing stock and the situs  of
+its accrual or arising was therefore where the valuation was
+made, was erroneous.  the conclusion of the high court  that
+the profit did not accrue in bikaner but at calcutta  could,
+however,  be  supported on another ground,  viz.,  that  the
+source  of  the profit was the business and  as  the  profit
+could  be  correctly  ascertained according  to  the  method
+adopted by the assessee only after bringing into the trading
+account  his closing stock wherever it may exist, the  whole
+of the profits must be taken to accrue or arise at the place
+of carrying on the business, viz., calcutta,
+  the  principles  underlying the  method  of  ascertaining
+profits by valuation of stock at the beginning and close  of
+the  year  and of the rule that the closing stock is  to  be
+valued  at  cost or market value, whichever  is  the  lower,
+explained.
+whimstar  and co. v. commissioners of inland revenue  (12
+tax  cas.  813) and commissioner of  income-tax,  madras  v.
+chengalvaraya chetty (i.l.r. 48 mad. 836) referred to.
+judgment:
+civil appellate jurisdiction civil appeal no. 142 of 1952.
+appeal by special leave granted by the supreme court by its order dated the 14th march, 1952, from
+the judgment and order dated the 4th day of june, 1951, of the high court of judicature at calcutta
+(chakravartti and das gupta jj.) special jurisdiction (income-tax) in i.t.r. nos. 7 and 6 of 1947
+arising out of the order dated the 26th day of march, 1946, of the income-tax appellate tribunal,
+calcutta bench, in 66 r.a. no. 3 bengal 1946-47 and 66 r.a. no. 4 bengal 1946-47.
+n.c. chatterjee (s. n. mukherji, with him) for the appellant.
+c.k. daphtary, solicitor-general for india (o. n. joshi, with him) for the respondent.
+1953. october 9. the judgment of the court was delivered by patanjali sastri c. t.-this is an
+appeal by special leave from a judgment of the high court of judicature at calcutta answering a
+reference by the income-tax appellate tribunal under section 66 (2) of the indian income-tax act,chainrup sampatram vs commissioner of income-tax,west ... on 9 october, 1953
+indian kanoon - http://indiankanoon.org/doc/127231/ 21922, hereinafter referred to as "the act".
+the appellant is a registered firm consisting of two brothers as partners with equal shares. the firm
+was carrying on business at calcutta as bullion merchants dealing mainly in silver and kept its books
+of account on the mercantile basis. in the course of the year of account 1997 (ramnavami)
+corresponding to 1941-42, 582 bars of silver (some from the old stock in hand at calcutta and some
+purchased elsewhere during the year) were sent to bikaner where the partners resided, and their
+value at cost was credited in the books of the firm. in the assessment of the firm for the year
+1942-43, it was alleged that the said silver bars had been sold to the partners for their domestic use
+but the income-tax authorities held that the alleged sale was not "genuine and that the said silver
+bars still formed part of the stock-in-trade of the firm at the close of the previous year 1997, and they
+accordingly included in the taxable profits a sum of rs. 2,20,887 as the excess arising from the
+valuation of the said 582 bars at market price on the closing day. they were valued at market rate at
+which the rest of the closing stock at calcutta was valued in the books of the firm.
+on appeal the appellate tribunal, on a consideration of all the facts and circumstances of the case,
+recorded its finding as follows:
+"all these circumstances make it clear to us that the action of the income-tax authorities in treating
+the stock of silver bars in bikaner as part of the stock-in-trade of the calcutta business was amply
+justified. the appellant on account of the panic in calcutta had to remove the valuable
+stock-in-trade to a safe place in bikaner just as many other calcutta businessmen did at that time.
+the partners of the firm then noticed the upward trend of the silver market, and decided to take
+advantage of the camouflage afforded by the entries in the books of account and the story of sale to
+partners, so that the profit of the year of account could be substantially reduced artificially."
+the appeal was accordingly dismissed. the application by the firm under section 66(1) of the act
+asking for a reference to the high court of six questions as questions of law arising out of the order
+of the tribunal was also rejected.
+thereupon the firm moved the high court under section 66(2), and the court directed the tribunal
+to refer the following question of law for its decision:
+whether in the circumstances of the case and on a true construction of section 4 (1) (b) and section
+14 (2) (c) of the indian income-tax act, the sum of rs. 2,20,887 was in law assessable to tax ?
+the reference was heard by chakravartti and das gupta jj., who answered the question in the
+affirmative. the firm being admittedly resident and ordinarily resident within the meaning of
+sections 4-a and 4-b in what was then known as british india, its total income would include also
+income accruing or arising to it without british india under section 4 (1) (b) (ii). the firm, however,
+claimed exemption in respect of the said sum under section 14(2)(c) which provided that the tax
+shall not be payable by an assessee in respect of any income, profits or gains accruing or arising to
+him within an indian state. it was contended that even on the finding of the income-tax authorities
+that the silver bars in question formed part of the stock-in-trade of the business at calcutta and theirchainrup sampatram vs commissioner of income-tax,west ... on 9 october, 1953
+indian kanoon - http://indiankanoon.org/doc/127231/ 3removal to bikaner had been effected only for reasons of security, the said bars having remained
+there during the rest of the accounting year, their value at the market rate at the close of the year
+being an increment to the goods at bikaner, the profit accrued at bikaner (their an indian state),
+with the result that it was exempted under section 14 (2) (c).
+the high court rejected this contention on the ground that the " notional profit " represented by the
+appreciation in value of the stock-in-trade " emerges out of the valuation and only when it so
+emerges it arises or accrues. the source of the profit is thus the valuation, and its situs is where the
+valuation is made. what is valued is the firm's business at the site of the firm and all the
+stock-in-trade of the firm is necessarily drawn into the valuation wherever they may be physically
+situated. the profit which is the result of the stock valuation of a business is thus sui generis, a type
+by itself, to which the ordinary notions of a physical accrual will not apply. it comes into existence
+when the valuation is made and since it arises out of the valuation, it arises, in respect of the whole
+stock-in-trade, at the site of the firm whose stock-in-trade is being valued irrespective of where parts
+of the stock-in-trade may be."
+while we agree with the conclusion that no part of the profits of the firm in the accounting year can
+be said to have accrued or arisen at bikaner, the reasoning by which the learned judges arrived at
+that conclusion seems to us, with all respect, to proceed on a misconception. it is wrong to assume
+that the valuation of the closing stock at market rate has, for its object, the bringing into charge any
+appreciation in the value of such stock. the true purpose of crediting the value of unsold stock is to
+balance the cost of those goods entered on the other side of the account at the time of their
+purchase, so that the cancelling out of the entries relating to the same stock from both sides of the
+account would leave only the transactions on which there have been actual sales in the course of the
+year showing the profit or loss actually realised on the year's trading. as pointed out in paragraph 8
+of the report of the committee on financial risks attaching to the holding of trading stocks, 1919, "
+as the entry for stock which appears in a trading account is merely intended to cancel the charge for
+the goods purchased which have not been sold, it should necessarily represent the cost of the goods.
+if it is more or less than the cost, then the effect is to state the profit on the goods which actually
+have been sold at the incorrect figure...... from this rigid doctrine one exception is very generally
+recognised on prudential grounds and is now fully sanctioned by custom, viz., the adoption of
+market value at the date of making -up accounts, if that value is less than cost. it is of course an
+anticipation of the loss that may be made on those goods in the following year, and may even have
+the effect, if prices rise again, of attributing to the following year's results a greater amount of profit
+than the difference between the actual sale price and the actual cost price of the goods in question"
+(extracted in paragraph 281 of the report of the committee on the taxation of trading profits
+presented to british parliament in april, 1951). while anticipated loss is thus taken into account,
+anticipated profit in the shape of appreciated value of the closing stock is not brought into the
+account, as no prudent trader would care to show increased profit before its actual realisation. this
+is the theory underlying the rule that the closing stock is to be valued at cost or market price
+whichever is the lower, and it is now generally accepted as an established rule of commercial
+practice and accountancy. as profits for income-tax purposes are to be computed in conformity with
+the ordinary principles of commercial accounting, unless, of course, such principles have been
+superseded or modified by legislative enactments, unrealised profits in the shape of appreciatedchainrup sampatram vs commissioner of income-tax,west ... on 9 october, 1953
+indian kanoon - http://indiankanoon.org/doc/127231/ 4value of goods remaining unsold at the end of an accounting year and carried over to the following
+year's account in a business that is continuing are not brought into the charge as a matter of
+practice, though, as already stated, loss due to a fall in price below cost is allowed even if such loss
+has not been actually realised. as truly observed by one of the learned judges in whimstar & co. v.
+commissioners of inland revenue(1), " under this law (revenue law) the profits are the profits
+realised in the course of the year. what seems an exception is recognised where a trader purchased
+and still holds goods or stocks which have fallen in value. no loss has been realised. loss may not
+occur. nevertheless, at the close of the year he is permitted to treat these goods or stocks as of their
+market value."
+an illustration of the rule in its practical working is to be found in the case of the commissioner of
+income-tax, madras v. chengalvaraya chetti(2). in 1921 the (1) 12 tax cas. 813, 827. (2) (1925)
+i.l.r. 48 mad. 836.
+assessee purchased a large stock of piece-goods at rs. 13-8 a piece. at the end of the year the market
+value fell to rs. 6 a piece, and he made out a loss by valuing the whole stock at the market rate,
+including the unsold pieces in hand at the end of the year. the loss was allowed in his assessment to
+income-tax. in the following year (1922), however, he entered the same unsold goods as opening
+stock at the cost price of rs. 13-8. some of those pieces remained unsold at the end of 1922 also and
+he credited their value at rs. 8-8 a piece, the market rate then prevailing, and showed a loss on the
+year's trading. the income-tax authorities refused to allow the loss thus calculated, and assessed
+him as having made a profit on the footing that the opening stock of 1922 should have been valued
+at rs. 6 a piece and the unsold pieces at rs. 8-8 a piece. the assessment was upheld as properly
+made, though, it will be seen, the transactions of 1922, or even of the two years taken together,
+ended actually in a loss. thus, while the valuation of the unsold stock at the end of each year at
+market rate which was less than cost was accepted, the valuation of the unsold goods carried over as
+opening stock of 1922 at rs. 6 a piece consistently with their valuation as the closing stock of 1921
+was insisted upon in order to rectify the distorted picture of the trading results of 1921 which were
+not correctly reflected in the accounts by reason of the assessee having adopted the lower market
+rate instead of cost as the value of the closing stock in 1921. if the market had risen to, say, rs. 15
+instead of to rs. 8-8 a piece at the end of 1922, then' on the principles indicated above, it would have
+been open to the assessee to value the closing stock at cost (rs. 13-8), and the income-tax
+authorities could not have claimed to bring into the assessment the appreciated value of the unsold
+goods. it will thus be seen that no question of charging the-appreciated value of closing stock as "
+notional profits " can really arise. in the present case, although it would appear that the cost price of
+part of the silver despatched to bikaner was less than the market price at the end of the year, the
+reference did not raise any question regarding the basis on which the amount in dispute, viz., rs.
+2,20,887, was arrived at. on the other hand, the question referred assumed that the said sum was
+correctly computed and put in issue only its assessability in law on a true construction of section
+4(1) (b) and section 14(2) (c) of the act. again, it is a misconception to think that any -profit " arises
+out of the valuation of the closing stock and the situs of its arising or accrual is where the valuation
+is made. as already stated, valuation of unsold stock at the close of an accounting period is a
+necessary part of the process of determining the trading results of that period, and can in no sense
+be regarded as the " source " of such profits. nor can the place where such valuation is made bechainrup sampatram vs commissioner of income-tax,west ... on 9 october, 1953
+indian kanoon - http://indiankanoon.org/doc/127231/ 5regarded as the " situs of their accrual ". the source of the profits and gains of a business is
+indubitably the business, and the place of their accrual is where the business is carried on. as such
+profits can be correctly ascertained according to the method adopted by an assessee only after
+bringing into the trading account his closing stock wherever it may exist, the whole of the profits
+must be taken to accrue or arise at the place of carrying on the business. on the finding of the
+income-tax authorities that the 582 bars of silver lying at bikaner had not been really sold but
+remained part of the unsold stock of the firm's business at the end of the accounting year, the whole
+of the profits of that year must be taken to have accrued or arisen at calcutta where the business was
+carried on, no part of that business having admittedly been transacted at bikaner.
+we agree with the high court that the question referred should be answered in the affirmative
+though on different grounds. the appeal is accordingly dismissed with costs.
+appeal dismissed.
+agent for the appellant: p. k. mukherji.
+agent for the respondent: g. h. rajadhyaksha.chainrup sampatram vs commissioner of income-tax,west ... on 9 october, 1953
+indian kanoon - http://indiankanoon.org/doc/127231/ 6

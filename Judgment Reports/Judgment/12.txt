@@ -1,0 +1,363 @@
+supreme court of india
+commissioner of income-tax, west ... vs east coast commercial co. ltd on 11 october, 1966
+equivalent citations: 1967 air 768, 1967 scr (1) 821
+author: s c.
+bench: shah, j.c.
+           petitioner:
+commissioner of income-tax, west bengal
+        vs.
+respondent:
+east coast commercial co.  ltd.
+date of judgment:
+11/10/1966
+bench:
+shah, j.c.
+bench:
+shah, j.c.
+ramaswami, v.
+bhargava, vishishtha
+citation:
+ 1967 air  768            1967 scr  (1) 821
+ citator info :
+ r          1976 sc1141  (14)
+act:
+income  tax  act  (11 of 1922), s.  23-a--company  in  which
+public are not substantially interested-test for.
+taxation  of  income (investigation  commission)  act,  1947
+declared ultra vires-admissions recorded by authority acting
+under act-admisibility in evidence.
+headnote:
+members  of a family held 4,015 shares, out of 4,391  shares
+in  the  respondent  company, which  was  a  public  limited
+company.  in the course of investigation under the  taxation
+of income (investigation commission) act, 1947, the heads of
+the various branches of the family admitted that the  shares
+were  purchased by them out of their joint income which  had
+not  been disclosed and that a majority of the  shares  were
+held  benami.  an offer of settlement was also made  that  a
+single  assessment may be made in respect of  the  "secreted
+income" treating them as an association of persons and  that
+every  member  of  the  family be  treated  as  jointly  and
+severally  liable  to  pay  tax on  that  income.   for  the
+assessment years 1950-51 and 1951-52, the income-tax officercommissioner of income-tax, west ... vs east coast commercial co. ltd on 11 october, 1966
+indian kanoon - http://indiankanoon.org/doc/1697399/ 1commenced  proceedings under s. 23a of the  income-tax  act,
+1922, and held that the company was one in which the  public
+were not substantially interested and that its affairs  were
+under  the control of the members of the family.  he  passed
+an order under the section that the undistributed portion of
+the assessable income of the company as computed for income-
+tax  purposes  and reduced by the amount of  income-tax  and
+super-tax  shall  be  deeming to have  been  distributed  as
+dividends among the share-holders.  the order was  confirmed
+by  the  appellate assistant commissioner.   the  income-tax
+appellate  tribunal reversed the order.  the  tribunal  held
+that  the  offers made by the members of the family  to  the
+income-tax  investigation  commission were not  relevant  in
+determining whether the company was one in which the  public
+were  not substantially interested, and that from  the  fact
+that  the members of the family held 4,015 shares, it  could
+not  be inferred that the shares were jointly  acquired,  or
+that  the members exercised control over the affairs of  the
+company.   the  tribunal  also observed that  there  was  no
+material  placed by the department to show that the  members
+of  the  family actually controlled the voting or  acted  in
+concert  so  as  to bring the company within  s.  23a.   the
+tribunal, therefore, held that the section did not apply  to
+the  company since it was not established that  the  company
+was   one  in  which  the  public  were  not   substantially
+interested, even though the members of the family held  more
+than  75%  of  the  shares issued  by  the  company.   on  a
+reference,  the  high  court  confirmed  the  order  of  the
+tribunal  holding that even on the finding that the  members
+of  the family were in a position to control the affairs  of
+the  company, there was no evidence of any  overact  showing
+that  they were acting in concert and thereby constituted  a
+block.
+in appeal to this court,
+held : the approach to the problem by the tribunal and  high
+court was erroneous.  it was for the tribunal to  determine,
+having regard to ordinary human experience whether it may be
+safely taken that the members of the family must have  acted
+together as a controlling block.  that
+822
+enquiry  had not been made and the case was decided  on  the
+application of an erroneous test. [830 c-d]
+(i)  in  deciding whether an order under s. 23a (as  oh  the
+relevant  date)  is called for, it must be  decided  in  the
+first instance whether there was a of persons     acting  in
+concert  holding a sufficient number of shares  may  control
+the  voting as a block.  it is sufficient, if having  regard
+to their relationship, their conduct, their common  interest
+etc. it may be inferred that they must be acting together  :
+evidence  of actual concerted acting is  normally  difficult
+-to  obtain and is not insisted upon.  it is the holding  in
+the  aggregate,  of a majority of the shares  issued,  by  a
+person  or  persons  acting in concert in  relation  to  thecommissioner of income-tax, west ... vs east coast commercial co. ltd on 11 october, 1966
+indian kanoon - http://indiankanoon.org/doc/1697399/ 2affairs of the company which establishes the existence of  a
+block,  and  if the block holds 75% of the voting  power  it
+shall be deemed that the company is one in which the  public
+are  not  substantially  interested.  to  establish  that  a
+company  is  one in which the public are  not  substantially
+interested,,  it is not a condition that actual exercise  of
+control by a group must be established. [828 b, e-f; 829  f-
+h]
+(ii) the  fact  that certain provisions of the  taxation  of
+income (investigation commission) act were held to be  ultra
+vires  did not render the commission an unlawful  body,  and
+the  admissions  recorded  by the commission  could  not  be
+ignored.  the report could be taken in evidence after giving
+an opportunity to the respondent to make its  representation
+against the report and to tender evidence against the  truth
+of the recitals contained therein. [830 b-d]
+raghuvanshi mills ltd. v. commissioner of income-tax, [1961]
+2  s.c.r.  978  and commissioner of  income-tax  v.  jubilee
+mills, [1963] supp. 1 s. c. r. 83, followed.
+judgment:
+civil appellate jurisdiction : civil appeals nos. 672 & 673 of 1965.
+appeals from the judgment and order dated august 17, 1962 of the calcutta high court in
+income-tax reference no. 32 of 1959;
+s. t. desai r. ganapathy iyer and r. n. sachthey, for the appellant (in both the appeals).
+a. k. sen and d. n. mukherjee, for the respondent (in both the appeals).
+the judgment of the court was delivered by shah, j. m/s east coast commerical company ltd.
+hereinafter called 'the company'-disclosed in its return for the assess- ment years 1950-51 and
+1951-52, a consolidated net profit of rs. 8,89,241/- for the account period april 7, 1949 to july 16,
+1950. the income-tax officer computed the income of the company for the assessment year 1950-51
+at rs. 7,27,824/- and for the assessment year 1951-52 at rs. 2,00,803/-. it came to the notice of the
+income-tax officer that the company was one in which the public were not substantially interested
+within the meaning of s. 23a of the income-tax act, 1922, and that the distributable profit after
+deducting tax due on the total income was rs. 4,32,151/- for the assessment year 1950-51, and rs.
+1,13,579/- for the assessment year 1951-52, and that the company had distributed rs. 43,910/- only
+as dividend. the income-tax officer commenced proceedings under  s. 23a of the income-tax act,
+1922, and passed an order that the undistributed portion of the assessable income of the company
+as computed for income-tax purposes and reduced by the amount of income-tax and super-tax shall
+be deemed to have been distributed as dividends among the shareholders. the order was confirmed
+by the appellate assistant commissioner. but the income-tax appellate tribunal reversed the order.
+the tribunal held that s. 23a did not apply to the company since it was not established that thecommissioner of income-tax, west ... vs east coast commercial co. ltd on 11 october, 1966
+indian kanoon - http://indiankanoon.org/doc/1697399/ 3company was one in which the public were not substantially interested.
+at the instance of the commissioner of income-tax, three questions were referred to the high court
+of judicature at calcutta. in these appeals the first question alone is material :
+"whether on the facts and in the circumstances of the case the tribunal erred in law
+in holding that the assessee-company was one in which the public are substantially
+interested within the meaning of s. 23a of the indian income-tax act ?"
+the high court answered that question in the negative. the commissioner of income-tax has, with
+certificate under  s. 66a(2) of the income-tax act, 1922, appealed to this court. relationship
+between the members of the family jointly re- ferred to as 'the kedias' is explained by the following
+genealogy jhabarmull kedia (died in 1937)
+---------------------------------------------------------------
+:                      :               :            :
+nagarmull         probladrai        madangpal     bnarashi.
+(died in 1928)    (died on 16-6-51)                prosad
+------------------------
+:                      :
+mahabir prosad         purarumal
+the joint status between the members of the family was severed on july 4, 1943, and the members
+of the family formed themselves into a partnership and carried on the family business. some time
+thereafter benarashi prosad and puranmall retired from the partnership and started an
+independent business with an outsider in partnership. this business was taken over by a private
+company styled 'east coast commercial company ltd. later the private company was converted
+into a public limited company bearing the same name and having a paid-up capital of rs. 4,39,
+100/divided into 4,391 shares of rs. 100/- each.
+investigation was started against the members of the kedia family under the taxation of income
+(investigation commission) act, 1947. in the course of the investigation the heads of the four
+branches of the kedia family admitted that the shares in the respondent company numbering 4,115
+were purchased by them out of their joint income which had not been disclosed and a majority of
+the shares in the company was held benami. an offer of settlement was then made by the members
+of the kedia family before the investigation commission. in paragraph-26 of the report, the
+commission observed as follows "these figures have been accepted by madangopal kedia for
+himself and as manager of the joint hindu family consisting of himself and his minor sons, prosad
+kedia for himself and as manager of family consisting of himself and his minor son as the executor
+and legal representative of his elder brother prohladrai, puranmal kedia, and prosad kedia for
+himself and as manager of family consisting of himself and his son, and they have jointly filed a
+settlement application. though these persons are now divided and separate assessments to
+income-tax are being made on each, they have admitted that so far as the secret profits in question
+were concer- ned, they were earned by all the members jointly and have, therefore, requested that acommissioner of income-tax, west ... vs east coast commercial co. ltd on 11 october, 1966
+indian kanoon - http://indiankanoon.org/doc/1697399/ 4single assessment may be made, treating them as an association of persons and making each
+member and his joint family jointly -and severally liable for the tax."
+it appears that 2,000 shares of the company were standing in the name of durgadutt
+jhunjhunwalla who had declared himself to be the sole proprietor of the business styled 'mohanlal
+murarilal' carried on in the state of hyderabad. it was found in the course of the investigation
+before the investigation commission that the shares were held by durgadutt jhunjhunwalla benami
+for the members of the kedla family. by letter dated december 18, 1951 it was admitted by them that
+durgadutt jhunjhunwalla was only a " working partner" having a tenth share and that the entire
+capital of the firm- had been advanced by the kedias jointly. out of the 2,000 shares -registered in
+the name of mohanlal murarilal, 1,000 ,shares were then transferred to the executor of the estate of
+prohladrai kedia and the balance was taken over by durgadutt jhunjhunwalla on january 30, 1951,
+when his account was finally settled, his personal account being credited with the sum of rs.
+1,00,000/- representing his remuneration for services rendered till october 20, 1949 and he being
+debited with that sum representing the value of 1,000 shares made over to him. therefore upto the
+account year 1951-52 in the 1,000 shares held in the name of durgadutt jhunjhunwalla the
+members of the kedia family had a 9/10th share.
+by september 17, 1952 the members of the kedia family got all the shares transferred to their own
+names from the benamidars. the share-holding of the various, members of the family thereafter was
+as follows
+1. madangopal kedia 120 shares
+2. benarshi prosad kedia 495 shares
+3. prohladrai kedia 1,389 shares
+4. purnamal kedia 650 shares
+5. mahabir prosad kedia 461 shares (out of 1,389 shares held in the name of prohaldrai kedia,
+1,000 shares were those which were transferred by durgadutt jhunjhunwalla).
+taking into account 900 shares-being 9/10th share of the holding of 1,000 shares which were
+transferred on january 30, 1951 in the name of durgadutt jhunjhunwalla, the total holding of the
+members of the kedia family in the company therefore stood at 4,015 shares. this holding was in
+excess of seventy-five per cent of the total number of the shares issued by the company.
+the income-tax officer held that madangopal kedia and others formed an association of persons. in
+his view 4,115 shares had been purchased benami out of the income earned jointly by the members
+of the family and that the income was invested by them as an association of persons, and that there
+was no evidence that the income from those shares was taken individually by the members of the
+family, who even after disruption of the joint family on july 4, 1943, had continued to work together
+and make their investments as an association of persons. the income-tax officer further held thatcommissioner of income-tax, west ... vs east coast commercial co. ltd on 11 october, 1966
+indian kanoon - http://indiankanoon.org/doc/1697399/ 5since the shares were never quoted in the market and the affairs of the company were under the
+control of the members of the kedia family, an order under s. 23a of the income-tax act could
+appropriately be made. in appeal, the appellate assistant commissioner agreed with the income-tax
+officer and held that the shares were acquired jointly by the members of the family out of their
+"joint secreted earnings". the appellate assistant commissioner also proceeded to and lyse the
+minutes of the meetings of the company showing the attendance at the meetings of the company
+held between april 10, 1946 and december 30, 1951 and held that the members of the kedia family
+had controlled the affairs of the company and on their admissions they had formed an association
+for acquisition of the shares of the company, and for various sup.c.i./66-8 other purposes, and
+therefore it could be inferred that the members of the association who controlled more than seventy
+five per cent of the total shares and the voting power had acted in concert.
+but the income-tax appellate tribunal held that the offers made by the members of the kedia family
+to the income-tax investigation commission that a single assessment be made in respect of their
+"secreted income" treating them as an association of persons and that every member of the family be
+treated as jointly and severally liable to pay tax on that income were not relevant in determining
+whether the company was one in which the public were not substantially interested, and that from
+the fact that the members of the kedia family held 4,015 shares, it could not be inferred that the
+shares were jointly acquired, or that the members of. the family exercised control over the affairs of
+the company. the tribunal observed :
+"....that unless and until the department clearly established by proper material that
+the kedias were acting in concert there is absolutely no case for holding that the
+provisions of section 23a become applicable to the facts of the case as in this case we
+have held that there is nothing to indicate that the separated members of the kedia
+family acted in concert we hold that no case has been made out by the department
+for holding that the assessee-company is one in which the public were not
+substantially interested."
+the high court expressed a doubt that the report made by the income-tax investigation
+commission "may not be evidence of anything contained therein", and proceeded to observe :
+"there is no doubt upon the facts stated above, that the five kedias who held between
+them 3,115 shares, and also had an interest in the 1,000 shares of messrs. mohanlal
+murarilal, were in a position to control the affairs of the company. . . . in my opinion,
+tribunal came to right conclusion. it may be that the holders of the shares are in a
+position to control the company. the majority of shareholders may be directors or
+relatives of directors or relatives of shareholders. but, that is not by itself sufficient to
+satisfy the test. there must not only be evidence to show that a number of individuals
+are in a position to control the company, but it must be shown that they are in fact
+acting in concert and they have constituted a 'block' so as to control the affairs of the
+company by themselves. this requires some overt act. . . . there is not a single fact to
+show that the kedias or their nominees were in fact acting in concert or operating as
+a 'block'. the tribunal was right in coming to the conclusion that no materials werecommissioner of income-tax, west ... vs east coast commercial co. ltd on 11 october, 1966
+indian kanoon - http://indiankanoon.org/doc/1697399/ 6placed before it by the department to establish the fact that the kedias in question
+acted in concert or operated as a block, so as to bring the assessee company within
+the provision of section 23a. "
+by  s. 23a(1) of the income-tax act as it stood in the relevant years the income-tax officer was
+required, if satisfied that in respect of any previous year the profits and gains distributed as
+dividends by any company were less than sixty per cent. of the assessable income of the company of
+that previous year, as reduced by the amount of income- tax and super-tax payable by the company
+in respect thereof, to make an order that the undistributed portion of the assessable income of the
+company of that previous year shall be deemed to have been distributed as dividends among the
+shareholders as at the date of the general meeting. but - this power could not be exercised in respect
+of any company in which the public are substantially interested. by the. explanation to s, 23a(1) it
+was enacted that "a company shall be deemed to be a company in which the public are substantially
+interested if shares of the company .... carrying not less than twenty-five per cent. of the voting
+power have been allotted unconditionally to, or acquired un- conditionally by, and are at the end of
+the previous year beneficially held by, the public .... and if any such shares have in the course of such
+previous year been the subject of dealings in any stock exchange .... or are in fact freely transferable
+by the holders to other members of the public." this court in raghuvanshi mills ltd. v.
+commissioner of income-tax(1) examined the scheme of s. 23a as it stood before the finance act of
+1955 and observed :
+"the word 'public' is used (in the explanation) in contradistinction to one or more
+persons who act in unison and among whom the voting power constitutes a block. if
+such a block exists and possesses more than seventy-five per cent. of the voting
+power, then the company cannot be said to be one in which the public are
+substantially interested. . . .
+the test is first to find out whether there is an individual or group which controls the
+voting power as a block. if there be such a block, the shares held by it cannot be said
+to be 'unconditionally' and 'beneficially' held by members of the public."
+it is clear that in deciding whether an order under  s. 23a(1) is called for, the income-tax officer
+must determine--(1) whether there is an individual or a group which can control the voting power as
+(1) [1961] 2s.c.r. 978-41 i.t,r. 613.
+a block. the existence of such a block may be established by showing that the voting power is vested
+in persons possessing more than fifty per cent. of the shares issued who act in concert ; and (ii) that
+the block exercises a controlling interest over the affairs of the company. this condition is satisfied
+only if the voting power of the block or group is seventy-five per cent or more. if the block holds
+seventy-five per cent of the voting power it shall be deemed that the company is one in which the
+public are not substantially interested. on the other hand, if the members of the public hold shares
+of the company (not being shares entitled to a fixed rate of dividend, whether with or without a
+further right to participate in profits) carrying not less than twenty five per cent of the voting power
+allotted unconditionally to, or acquired unconditionally by them, the company shall be deemed tocommissioner of income-tax, west ... vs east coast commercial co. ltd on 11 october, 1966
+indian kanoon - http://indiankanoon.org/doc/1697399/ 7be one in which the public are substantially interested.
+it is unfortunate that the tribunal did not record a finding whether there was a group of persons
+controlling the affairs of the company. in the view of the tribunal, since the acquisition of 4,015
+shares of the company was not joint and there was no other evidence that the members of the kedia
+family were in fact acting in concert, the company could not be deemed one in which the public
+were not substantially interested. the high court also made a similar approach. they were of the
+view that even on the finding that the members of the kedia family were in a position to control the
+affairs of the company, there was no evidence of any overt act showing that they were acting in
+concert and thereby constituted a block.
+in our judgment, that approach to the problem was erroneous. the tribunal had to decide in the
+first instance whether there was a group of persons acting in concert holding a sufficient number of
+shares which may control the voting as a block. but the existence of a block is not decisive. if there
+be a group of persons holding control over voting, the company would still be a company in which
+the public are substantially interested, if twenty-five per cent. or more of the voting power has been,
+allotted unconditionally to and beneficially held by the public and the shares were in the previous
+years subject of dealings in any stock exchange in the taxable territories or were in fact freely
+transferable by the holders to other members of the public. the two enquiries are distinct. the
+tribunal in paragraph 9 of its order observed that there was no material placed by the department
+to show that the kedias in question acted in concert so as to bring the assessee company within s.
+23a. if thereby the tribunal meant that there was no evidence to prove that the members of the
+kedia family "actually acted in concert," the view taken by the tribunal was, in our judgment,
+wrong, since to establish that a company is one in which the public are not substantially interested,
+it is not a condition that actual exercise of control by a group must be established. the high court
+was apparently of the view that the members of the kedia family were in a position to control the
+affairs of the company, but there was no evidence of any overt act or concert between them. but in
+commissioner of income-tax, bombay city-, v. jubilee mills ltd. (1) this court held that no direct
+evidence of overt act or concert between the members of the group having control over voting was
+necessary to prove that the company was not one in which the public were substantially interested.
+it was observed in raghuvanshi mills' case(2) that "in deciding if there is such a controlling interest,
+there is no formula applicable to all cases. relationship and position as director are not by
+themselves decisive. if relatives act, not freely, but with others, they cannot be said to belong to that
+body, which is described as 'public' in the explanation." in jubilee mills' case(1) this court
+elaborated those observations and stated :
+"the test is not whether they have actually acted in concert but whether the
+circumstances are such that human experience tells us that it can safely be taken that
+they must be acting together. it is not necessary to state the kind of evidence that will
+prove such concerted acting. each case must necessarily be decided on its own facts."
+on an analysis of the reasons recorded by the tribunal and the high court, it is clear that the
+tribunal held that the kedias did not form a controlling group because there was no evidence that
+they actually controlled the voting, even though they held more than seventy-five per cent of thecommissioner of income-tax, west ... vs east coast commercial co. ltd on 11 october, 1966
+indian kanoon - http://indiankanoon.org/doc/1697399/ 8shares issued by the company : the high court observed that the members of the kedia family held
+4,015 shares of the company and were in a position to control the affairs of the company, but there
+was no evidence to show that they did in fact act in concert and controlled the affairs of the
+company as a block. but, as already observed, if the members of the kedia family formed a block
+and held more than seventy-five per cent of the voting power,it was not necessary to prove that they
+actually exercised controlling interest. it is the holding in the aggregate of a majority of the shares
+issued by a person or persons acting in concert in relation to the affairs of the company which
+establishes the existence of a block. it is sufficient, if having regard to their relation etc., their
+conduct, and their common interest, that it may be inferred that they must be acting together :
+evidence of actual concerted acting is normally difficult to obtain, and is not insisted upon.
+(1) [1963] supp. 1 s.c.r. 83-48 i.t.r. 9. (2) [1961] 2 s.c.r. 978 we may observe that the high court
+appears to have felt some doubt as to the admissibility of the report of the income- tax investigation
+commission. but the income-tax authorities are not strictly bound by the rules of evidence, and the
+mere fact that certain provisions of the taxation of income (investigation commission) act relating
+to the inquiries to be held were declared to be ultra vires by this court did not render the
+commission an unlawful body ; and in any event the admissions which are recorded by the
+commission, as having been made before them, cannot be ignored. the report had evidence value
+and could be taken into account. undoubtedly the report had to be brought to the notice of the
+company, and the company had to be given an opportunity to make its representation against the
+report and to tender evidence against the truth of the recitals contained therein. it is not suggested
+that this opportunity was not given. it was for the tribunal to determine, having regard to ordinary
+human experience whether it may be safely taken that the members of the kedia family must have
+acted together as a controlling block. that enquiry has not been made, and the case has been
+decided on the application of a test which is erroneous. we are, therefore, unable on the statement
+of case to answer the question referred.
+we accordingly set aside the order passed by the high court and direct that the tribunal do submit
+a supplementary statement of the case under s. 66(4) of the income-tax act, 1922, because in our
+view the statement of the case already referred to is not sufficient to enable determination of the
+case raised thereby. the tribunal may make such additions or alterations in the statement of the
+case in the light of the observations made in the course of this judgment. the tribunal will submit
+the supplementary statement of the case to the high court. the high court will then proceed to
+determine the question according to law. the costs of this hearing will be costs in the proceedings
+before the high court.
+order of high court set aside with direction, to, the tribunal to submit supplementary statement of
+the case. v.p.s.commissioner of income-tax, west ... vs east coast commercial co. ltd on 11 october, 1966
+indian kanoon - http://indiankanoon.org/doc/1697399/ 9

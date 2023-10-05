@@ -1,0 +1,426 @@
+supreme court of india
+income tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+equivalent citations: 1976 air 1753, 1976 scr (3) 956
+author: h r khanna
+bench: khanna, hans raj
+           petitioner:
+income tax officer, i ward, dist, vi, calcutta & ors.
+        vs.
+respondent:
+lakhmani mewal das
+date of judgment30/03/1976
+bench:
+khanna, hans raj
+bench:
+khanna, hans raj
+goswami, p.k.
+citation:
+ 1976 air 1753            1976 scr  (3) 956
+ 1976 scc  (3) 757
+ citator info :
+ f          1977 sc 429  (10)
+ r          1986 sc1857  (7)
+ rf         1987 sc1897  (32)
+act:
+income tax  act , 1961-s.  148-scope of-words & phrases-
+"reason  to   believe"  meaning   of  'rational  nexus'-what
+postulates.
+headnote:
+     in march  1967, after obtaining the satisfaction of the
+commissioner the  appellant issued  a notice under s. 148 of
+the income  tax act,  1961 stating  that he  had  reason  to
+believe that  the respondent's  income chargeable to tax for
+the assessment  year 1958-59  had  escaped  assessment.  the
+respondent replied  that the  i.t.o. had  no  competence  or
+jurisdiction to  reopen the  assessment under  s. 147 of the
+act on  a mere  change of  opinion. since there was no reply
+from the  appellant, the respondent moved the high court for
+a writ.  the high  court held  that the conditions precedent
+for the  exercise of  jurisdiction by the income tax officer
+were not  fulfilled because  the  report  submitted  by  the
+income tax  officer to  the commissioner under s. 147(a) was
+defective. on appeal to this court it was contended that theincome tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 1high court  was not  right in  holding that  the income  tax
+officer's report was defective.
+     dismissing the appeal,
+^
+     held: the  high court  was right  in holding  that  the
+material before the income tax officer could not have led to
+the formation  of the belief that the income of the assessee
+had escaped assessment because of his failure or omission to
+disclose fully and truly all material facts. [965h]
+     1. (a)  the two  conditions required  to  be  satisfied
+before the  income tax  officer issued a notice under s. 148
+of the  income tax  act are  that he  must  have  reason  to
+believe (i)  that the  income chargeable  to tax had escaped
+assessment and  (ii) that such income had escaped assessment
+by reason  of  the  omission  or  failure  on  the  part  of
+assessee,  to   disclose  fully  and  truly  material  facts
+necessary  for   assessment  for   that  year.   both  these
+conditions must  co-exist in order to confer jurisdiction on
+the income  tax officer.  further  the  income  tax  officer
+should record  his  reasons  before  initiating  proceedings
+under s.  148(2); before issuing the notice after the expiry
+of four  years from the end of the relevant assessment year,
+the commissioner should be satisfied on the reasons recorded
+by the  income tax  officer that  it was  a fit case for the
+issue of such notice. [962c-d]
+     (b) the  duty cast  upon the  assessee does  not extend
+beyond making  a true  and full  disclosure of  the  primary
+facts. it  is then  for the  income tax  officer to draw the
+correct  inference   from  the   primary  facts.  where  his
+inference subsequently  appears to be erroneous, mere change
+of opinion  with regard  to that inference would not justify
+initiation of action for reopening the assessment. [962f-g]
+     (c) the  grounds or reasons leading to the formation of
+the belief  under s.  147(a) must have a material bearing on
+the question  of escapement  of  income.  once  there  exist
+reasonable grounds  for the  income tax  officer to form the
+above belief,  that would  be sufficient  to clothe him with
+jurisdiction to  issue  notice.  while  the  sufficiency  of
+grounds which  induce the  income tax  officer to act is not
+justiciable, it  is open to the assessee to contend that the
+income tax  officer did  not hold  the belief that there was
+such non-disclosure. the expression "reason to believe" does
+not mean a purely subjective satisfaction on the part of the
+income-tax officer.  it is  open to  the  court  to  examine
+whether the  reasons for  the formation of the belief have a
+rational  connection   with  or   relevant  bearing  on  the
+formation of the belief and are not extraneous or irrelevant
+for the purpose of the section. [962h]
+957
+chhugamal rajpal  v.  s.  p.  chaliha  79  i.t.r.  603,
+calcutta discount  co. ltd. v. income-tax officer, 41 i.t.r.
+191 and  s. narayanappa & ors. v. commissioner of income tax
+63 i.t.r. 219 followed.income tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 2     in the instant case the grounds given by the income tax
+officer for reopening the assessment were (i) that the three
+persons whose names were mentioned in the list of creditors,
+were known  name lenders  and (ii) that another person shown
+as a  creditor of  the assessee  had since confessed that he
+was doing  only name  lending. the first ground mentioned by
+the income  tax officer  could not have led to the formation
+of the  belief that the income of the respondent had escaped
+assessment for  that year because of his failure or omission
+to disclose  fully and  truly all  material facts.  the high
+court  was   justified  in   excluding  that   ground   from
+consideration. [963d-e]
+     as regards  the second  ground there is nothing to show
+that the  confession of  another person related to a loan to
+the assessee and not to someone else. there is no indication
+as to when the confession was made and whether it related to
+the assessment  year sought  to be  re-opened. to infer from
+that confession  that it related to the period of assessment
+and that  it pertained  to  the  loan  shown  to  have  been
+advanced to the assessee would be far-fetched. [964g]
+     2(a). rational connection postulates that there must be
+a direct  nexus or  live link between the material coming to
+the notice  of the  income tax  officer and the formation of
+his belief  that there  had been escapement of income of the
+assessee from  assessment in  the particular year. it is not
+any and  every material,  howsoever vague  and indefinite or
+distant, remote  and far-fetched  which  would  warrant  the
+formation of the belief relating to escapement of the income
+of the  assessee from  assessment. the  fact that  the words
+"definite information"  in s.  34 of  1922  act  before  its
+amendment in  1948 do  not find  a place in s. 147 would not
+lead to  the conclusion  that action  could now be taken for
+reopening assessment  even if  the  information  was  wholly
+vague, indefinite, far-fetched and remote. [965b-d]
+     (b) the  powers of  the income  tax officer  to  reopen
+assessment, though  wide, are  not plenary.  the  words  are
+"reason  to  believe"  and  not  "reason  to  suspect".  the
+provisions of the act depart from the normal rule that there
+should be  finality about orders made in judicial and quasi-
+judicial  proceedings.  it  is,  therefore,  essential  that
+before such  action is  taken the  requirement  of  the  law
+should be satisfied. [965e-f]
+     in the  instant case  the  live  link  or  close  nexus
+between the  material before  the income tax officer and the
+belief which  he was to form regarding the escapement of the
+income was  missing or  at any rate the link was too tenuous
+to  provide   a  legally   sound  basis  for  reopening  the
+assessment. [g]
+judgment:income tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 3civil appellate jurisdiction: civil appeal no. 2526 of 1972.
+appeal from the judgment and order dated the 13th january, 1972 of the calcutta high court in
+matter no. 326 of 1967.
+g. c. sharma and s. p. nayar, for the appellant. d. pal, b. sen, (mrs.) leila seth, p. k. pal, s. r.
+agarwala and parveen kumar for the respondent.
+the judgment of the court was delivered by khanna, j. this appeal on certificate is against the
+full bench judgment of the calcutta high court whereby on petition under article 226 of the
+constitution of india filed by the respondent that court by majority quashed notice under section
+148 of the income-tax act, 1961 (hereinafter referred to as the act) issued by appeallant no. 2
+(income-tax officer e ward, hundi circle, calcutta) (hereinafter referred to as the appellant) for the
+purpose of reopening assessment of the income of the respondent for the assessment year 1958-
+59. the respondent was assessed for the assessment year 1958-59 under section 23(3) of the indian
+income-tax act, 1922 on june 14, 1960. his total income was assessed to be rs. 37,872. while
+making the assessment the income-tax officer allowed deduction of a sum of rs. 15,991 by way of
+expenses claimed by the respondent. the expenses included rs. 10,494/4 as/3 pies by way of
+interest. according to the respondent, he produced through his authorised representative all books
+of accounts, bank statements and other necessary documents in connection with the return. on
+march 14, 1967 the respondent received notice dated march 8, 1967 issued by the appellant under
+section 148 of the act stating that the appellant had reason to believe that the respondent's income
+which was chargeable to tax for the assessment year 1958-59 had escaped assessment within the
+meaning of section 147 of the act and that the notice was being issued after obtaining the necessary
+satisfaction of the commissioner of income-tax. the respondent was called upon to submit within
+30 days from the date of the service of the notice a return in the prescribed form of his income for
+the assessment year 1958-59. on may 2, 1967 the respondent through his lawyer stated that there
+was no material on which the appellant had reason to believe that the respondent's income had
+escaped assessment and, therefore, the condition precedent for the assumption of jurisdiction by the
+appellant had not been satisfied. the appellant was said to have no competence or jurisdiction to
+re-open the assessment under section 147 of the act on a mere change of opinion. the appellant was
+also called upon to furnish all the materials on which he had reason to believe that income had
+escaped assessment. as, according to the respondent, there was no satisfactory response from the
+appellant, he filed petition under article 226 of the constitution for quashing the impugned notice.
+it was denied in the affidavit on behalf of the appellant that all materials relevant and necessary for
+the assessment of the respondent's income for the assessment year 1958-59 had been produced
+before the income-tax officer at the time of the original assessment. it was further stated:
+"subsequent to the assessment for the assessment year 1958-59, it was discovered,
+inter alia, that some of the loans shown to have been taken and interests alleged to
+have been paid thereon by the petitioner during the relevant assessment year were
+not genuine. the income-tax officer had reason to believe and bona fide believedincome tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 4that the said alleged loans and the interest alleged to have been paid thereon are not
+genuine. if necessary, i crave leave to produce before the hon'ble judge hearing the
+application, the relevant records on the basis of which the said income-tax officer
+had reason to believe that the income of the petitioner escaped assessment as
+aforesaid at the hearing of the application."
+during the pendency of the proceedings the high court directed that a copy of the report made by
+the appellant to the commissioner of income-tax for obtaining latter's sanction under section 147 be
+produced. the report was accordingly produced, and the same reads as under:
+"there are hundi loan credits in the name of narayan singh nandalal, d. k.
+naraindas, bhagwandas srichand, etc., who are known name-lenders, and also hundi
+loan credit in the name, mohansingh kanayalal, who has since confessed he was
+doing only name-lending. in the original assessment these credits were not
+investigated in detail. as the information regarding the bogus nature of these credits
+is since known, action under section 147 (a) is called for to reopen the assessment
+and assess these credits as the undisclosed income of the assessee. the assessee is
+still claiming that the credits are genuine in the assessment proceedings for 1962-63.
+commissioner's sanction is solicited to reopen the assessment for 1958-59, under
+section 147(a)."
+all the three judges who constituted the full bench found that the assessee was not being charged
+with omission to disclose all facts: he was charged for having made an untrue disclosure because the
+assessee had stated that he had received certain sums of money from certain persons as loans when,
+in fact, he had not received any sum at all from these persons. it was also stated by the assessee at
+the time of the original assessment that he had paid interest to certain persons when, in fact, he had
+not, if the information received later was true. the duty of the assessee, it was held, was not only to
+make a full disclosure of all material facts, his duty was also to make a true disclosure of facts and
+not to mislead the assessing officer by disclosing certain things which did not represent facts. the
+high court accordingly held that once an assessee infringes this rule, any subsequent discovery of
+fact by the assessing officer which would raise a resonable belief in his mind that the assessee had
+not made a true and correct disclosure of the facts and had thereby been responsible for escapement
+of his income from assessment would attract section 147 of the act. two of the learned judges, a. k.
+mukherjea and s. k. mukherjea jj., however, took the view that the conditions precedent for the
+exercise of jurisdiction by the income-tax officer under section 147 of the income-tax act were not
+fulfilled in the case as the report submitted by the income- tax officer to the commissioner for
+sanction under section 147(a) was defective. the defects in the report, in the opinion of the high
+court, were the same as had been pointed out by this court in the case of chhugamal rajpal v. s. p.
+chaliha.(1) the commissioner, while according permission for taking action under section 147, it
+was observed, acted mechanically because the commissioner had not expressly stated that he was
+satisfied that this was a fit case for the issue of notice under section 148. as against the majority,
+sabyasachi mukherji j. held that notice under section 148 of the act was valid and did not suffer
+from any infirmity. it was also observed that the commissioner of income-tax had not acted
+improperly in giving sanction.income tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 5in the result, by majority the high court quashed the notice issued by the appellant to the
+respondent.
+in appeal before us mr. sharma on behalf of the appellants has assailed the judgment of the
+majority of the learned judges in so far as they have held that the report submitted by the
+income-tax officer to the commissioner of income-tax for sanction was defective. as against that,
+dr. pal on behalf of the assessee-respondent has canvassed for the correctness of the view taken by
+the majority regarding the defective nature of the report. dr. pal has in his own turn assailed the
+finding of all the three learned judges of the high court in so far as they have held that the assessee
+was being charged with omission to disclose true facts. contention has also been advanced by dr.
+pal that the material on the basis of which the income-tax officer initiated these proceedings for
+reopening the assessment did not have a rational connection with the formation of the belief that
+the assessee had not made a true disclosure of the facts at the time of the original assessment.
+before dealing with the points of controversy, it would be useful to reproduce the relevant provisions
+of the act. sections 147 and 148 which deal with income escaping assessment and issue of notice
+where income has escaped assessment read as under:
+"147. income escaping assessment.-if-
+(a) the income-tax officer has reason to believe that, by reason of the omission or failure on the part
+of an assessee to make a return under section 139 for any assessment year to the income-tax officer
+or to disclose fully and truly all material facts necessary for his assessment for that year, income
+chargeable to tax has escaped assessment for that year, or
+(b) notwithstanding that there has been no omission or failure as mentioned in clause (a) on the
+part of the assessee, the income-tax officer has in consequence of information in his possession
+reason to believe that income chargeable to tax has escaped assessment for any assessment year, he
+may, subject to the provisions of section 148 to 153, assess or ressess such income or recompute the
+loss or the depreciation allowance, as the case may be, for the assessment year concerned
+(hereinafter in sections 148 to 153 referred to as the relevant assessment year). explanation 1.-for
+the purposes of this section, the following shall also be deemed to be cases where income chargeable
+to tax has escaped assessment, namely:-
+(a) where income chargeable to tax has been under assessed; or
+(b) where such income has been assessed at too low a rate; or
+(c) where such income has been made the subject of excessive relief under this act or under the
+indian income-tax act, 1922 (xi of 1922); or
+(d) where excessive loss or depreciation allowance has been computed.income tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 6explanation 2.-production before the income-tax officer of account books or other evidence from
+which material evidence could with due diligence have been discovered by the income-tax officer
+will not necessarily amount to disclosure within the meaning of this section.
+148. issue of notice where income has escaped assessment.-
+(1) before making the assessment, reassessment or recomputation under section 147, the
+income-tax officer shall serve on the assessee a notice containing all or any of the requirements
+which may be included in a notice under sub-section (2) of section 139; and the provisions of this
+act shall, so far as may be, apply accordingly as if the notice were a notice issued under that
+sub-section.
+(2) the income-tax officer shall, before issuing any notice under this section, record his reason for
+doing so."
+sub-section (1) of section 149 prescribes the time limit for notice and reads as under:
+"(1) no notice under section 148 shall be issued"
+(a) in cases falling under clause (a) of section 147-
+(i) for the relevant assessment year, if eight years have elapsed from the end of that
+year, unless the case falls under sub-clause (ii);
+(ii) for the relevant assessment year, where eight years, but not more than sixteen
+years, have elapsed from the end of that year, unless the income chargeable to tax
+which has escaped assessment amounts to or is likely to amount to rupees fifty
+thousand or more for that year;
+(b) in cases falling under clause (b) of section 147, at any time after the expiry of four
+years from the end of the relevant assessment year."
+section 151 pertains to the sanction for issue of notice and reads as under:
+"151. sanction for issue of notice.-(1) no notice shall be issued under section 148 after
+the expiry of eight years from the end of the relevant assessment year, unless the
+board is satisfied on the reasons recorded by the income-tax officer that it is a fit
+case for the issue of such notice.
+(2) no notice shall be issued under section 148 after the expiry of four years from the
+end of the relevant assessment year, unless the commissioner is satisfied on the
+reasons recorded by the income-tax officer that it is a fit case for the issue of such
+notice."income tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 7the provisions of sections 147 to 153 of the act correspond to those of section 34 of the indian
+income-tax act, 1922. there have been some points of departure from the old law, but it is not
+necessary for the purpose of the present case to refer to them.
+it would appear from the perusal of the provisions reproduced above that two conditions have to be
+satisfied before an income-tax officer acquires jurisdiction to issue notice under section 148 in
+respect of an assessment beyond the period of four years but within a period of eight years from the
+end of the relevant year, viz., (1) the income-tax officer must have reason to believe that income
+chargeable to tax has escaped assessment, and (2) he must have reason to believe that such income
+has escaped assessment by reason of the omission or failure on the part of the assessee (a) to make a
+return under section 139 for the assessment year to the income-tax officer, or (b) to disclose fully
+and truly material facts necessary for his assessment for that year. both these conditions must
+co-exist in order to confer jurisdiction on the income-tax officer. it is also imperative for the
+income-tax officer to record his reasons before initiating proceedings as required by section 148(2).
+another requirement is that before notice is issued after the expiry of four years from the end of the
+relevant assessment years, the commissioner should be satisfied on the reasons recorded by the
+income-tax officer that it is a fit case for the issue of such notice. we may add that the duty which is
+cast upon the assessee is to make a true and full disclosure of the primary facts at the time of the
+original assessment. production before the income-tax officer of the account books or other
+evidence from which material evidence could with due diligence have been discovered by the
+income-tax officer will not necessarily amount to disclosure contemplated by law. the duty of the
+assessee in any case does not extend beyond making a true and full disclosure of primary facts. once
+he has done that his duty ends. it is for the income-tax officer to draw the correct inference from
+the primary facts. it is no responsibility of the assessee to advise the income-tax officer with regard
+to the inference which he should draw from the primary facts. if an income-tax officer draws an
+inference which appears subsequently to be erroneous, mere change of opinion with regard to that
+inference would not justify initiation of action for reopening assessment.
+the grounds or reasons which lead to the formation of the belief contemplated by section 147(a) of
+the act must have a material bearing on the question of escapement of income of the assessee from
+assessment because of his failure or omission to disclose fully and truly all material facts. once there
+exist reasonable grounds for the income- tax officer to form the above belief, that would be
+sufficient to clothe him with jurisdiction to issue notice. whether the grounds are adequate or not is
+not a matter for the court to investigate. the sufficiency of grounds which induce the income-tax
+officer to act is, therefore, not a justiciable issue. it is, of course, open to the assessee to contend that
+the income-tax officer did not hold the belief that there had been such non-disclosure. the
+existence of the belief can be challenged by the assessee but not the sufficiency of reasons for the
+belief. the expression "reason to believe" does not mean a purely subjective satisfaction on the part
+of the income-tax officer. the reason must be held in good faith. it cannot be merely a pretence. it
+is open to the court to examine whether the reasons for the formation of the belief have a rational
+connection with or a relevant bearing on the formation of the belief and are not extraneous or
+irrelevant for the purpose of the section. to this limited extent, the action of the income-tax officer
+in starting proceedings in respect of income escaping assessment is open to challenge in a court of
+law [see observations of this court in the cases of calcutta discount co. ltd. v. income-tax officerincome tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 8and s. narayanappa & ors. v. commissioner of income-tax while dealing with corresponding
+provisions of the indian income-tax act, 1922].
+keeping the above principles in view, we may now turn our attention to the facts of the present case.
+two grounds were mentioned in the report made by the income-tax officer for reopening the
+assessment of the assessee respondent with a view to show that his income had been under-assessed
+because of his failure to disclose fully and truly material facts necessary for the assessment. one was
+that mohansingh kanayalal, who was shown to be one of the creditors of the assessee, had since
+confessed that he was doing only name- lending. the other ground was that narayansingh nandalal,
+d. k. naraindas, bhagwandas srichand, etc., whose names too were mentioned in the list of the
+creditors of the assessee, were known name-lenders. so far as the second ground is concerned,
+neither the majority of the judges of the high court nor the learned judge who was in the minority
+relied upon that ground. regarding that ground, the learned judge who was in the minority
+observed that no basis had been indicated as to how it became known that those creditors were
+known namelenders and when it was known. the majority while not relying upon that ground
+placed reliance upon the case of chhugamal rajpal (supra). in that case the income- tax officer
+while submitting a report to the commissioner of income-tax for obtaining his sanction with a view
+to issue notice under section 148 of the act stated:
+"during the year the assessee has shown to have taken loans from various parties of
+calcutta. from d.i.'s inv. no. a/p/misc. (5) d.i./63-64/5623 dated august 13, 1965,
+forwarded to this office under c.i.t., bihar and orissa, patna's letter no. inv. (inv.)
+15/65- 66/1953-2017 dated patna september 24, 1965 it appears that these persons
+are name-lenders and the transactions are bogus. hence, proper investigation
+regarding these loans is necessary. the names of some of the persons from whom
+money is alleged to have been taken on loan on hundis are:
+1. seth bhagwan singh sricharan
+2. lakha singh lal singh
+3. radhakissen shyam sunder the amount of escapement involved amounts to rs.
+1,00,000."
+in dealing with that report this court observed: "from the report submitted by the
+income-tax officer to the commissioner, it is clear that he could not have had
+reasons to believe that by reason of the assessee's omission to disclose fully and truly
+all material facts necessary for his assessment for the accounting year in question,
+income chargeable to tax has escaped assessment for that year, nor could it be said
+that he, as a consequence of information in his possession, had reasons to believe
+that the income chargeable to tax has escaped assessment for that year. we are not
+satisfied that the income-tax officer had any material before him which could satisfy
+the requirements of either clause (a) or clause (b) of section 147. therefore he could
+not have issued a notice under section 148".income tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 9reference to the names of narayansingh nandalal, d. k. naraindas, bhagwandas srichand, etc., in
+the report of the income-tax officer to the commissioner of income-tax in the instant case does not
+stand on a better footing than the reference to the three names in the report made by the income-tax
+officer in the case of chuugamal rajpal. we would, therefore, hold that the second ground
+mentioned by the income-tax officer, i.e., reference to the names of narayansingh nandalal, d. k.
+naraindas, bhagwandas srichand, etc., could not have led to the formation of the belief that the
+income of the respondent assessee chargeable to tax had escaped assessment for that year because
+of the failure or omission of the assessee to disclose fully and truly all material facts. all the three
+learned judges of the high court, in our opinion, were justified in excluding the second ground
+from consideration.
+we may now deal with the first ground mentioned in the report of the income-tax officer to the
+commissioner of income-tax. this ground relates to mohansingh kanayalal, against whose name
+there was an entry about the payment of rs. 74 annas 3 as interest in the books of the assessee,
+having made a confession that he was doing only name- lending. there is nothing to show that the
+above confession related to a loan to the assessee and not to someone else, much less to the loan of
+rs. 2,500 which was shown to have been advanced by that person to the assessee-respondent. there
+is also no indication as to when that confession was made and whether it relates to the period from
+april 1, 1957 to march 31, 1958 which is the subject-matter of the assessment sought to be reopened.
+the report was made on february 13, 1967. in the absence of the date of the alleged confession, it
+would not be unreasonable to assume that the confession was made a few weeks or months before
+the report. to infer from that confession that it relates to the period from april 1, 1957 to march 31,
+1958 and that it pertains to the loan shown to have been advanced to the assessee, in our opinion,
+would be rather far-fetched.
+as stated earlier, the reasons for the formation of the belief must have a rational connection with or
+relevant bearing on the formation of the belief. rational connection postulates that there must be a
+direct nexus or live link between the material coming to the notice of the income-tax officer and the
+formation of his belief that there has been escapement of the income of the assessee from
+assessment in the particular year because of his failure to disclose fully and truly all material facts. it
+is no doubt true that the court cannot go into the sufficiency or adequacy of the material and
+substitute its own opinion for that of the income-tax officer on the point as to whether action
+should be initiated for reopening assessment. at the same time we have to bear in mind that it is not
+any and every material, howsoever vague and indefinite or distant, remote and far- fetched, which
+would warrant the formation of the belief relating to escapement of the income of the assessee from
+assessment. the fact that the words "definite information" which were there in section 34 of the act
+of 1922 at one time before its amendment in 1948 are not there in section 147 of the act of 1961
+would not lead to the conclusion that action cannot be taken for reopening assessment even if the
+information is wholly vague, indefinite, far-fetched and remote. the reason for the formation of the
+belief must be held in good faith and should not be a mere pretence.
+the powers of the income-tax officer to reopen assessment though wide are not plenary. the words
+of the statute are "reason to believe" and not "reason to suspect". the reopening of the assessment
+after the lapse of many years is a serious matter. the act, no doubt, contemplates the reopening ofincome tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 10the assessment if grounds exist for believing that income of the assessee has escaped assessment.
+the underlying reason for that is that instances of concealed income or other income escaping
+assessment in a large number of cases come to the notice of the income-tax authorities after the
+assessment has been completed. the provisions of the act in this respect depart from the normal
+rule that there should be, subject to right of appeal and revision, finality about orders made in
+judicial and quasi- judicial proceedings. it is, therefore, essential that before such action is taken the
+requirements of the law should be satisfied. the live link or close nexus which should be there
+between the material before the income-tax officer in the present case and the belief which he was
+to form regarding the escapement of the income of the assessee from assessment because of the
+latter's failure or omission to disclose fully and truly all material facts was missing in the case. in any
+event, the link was too tenuous to provide a legally sound basis for reopening the assessment. the
+majority of the learned judges in the high court, in our opinion, were not in error in holding that
+the said material could not have led to the formation of the belief that the income of the assessee
+respondent had escaped assessment because of his failure or omission to disclose fully and truly all
+material facts. we would, therefore, uphold the view of the majority and dismiss the appeal with
+costs.
+p.b.r.                                     appeal dismissed.income tax officer, i ward, dist, ... vs lakhmani mewal das on 30 march, 1976
+indian kanoon - http://indiankanoon.org/doc/380958/ 11
